@@ -1,0 +1,3 @@
+[submodule "manocska"]
+	path = manocska
+	url = https://github.com/ppke-nlpg/manocska.git

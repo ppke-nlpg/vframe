@@ -1,0 +1,6000 @@
+%de azért el lehet a pénzt különféleképpen is költeni .
+-	lehet	el	költeni
+-	lehet	el	költeni
+-	lehet	-	költeni
+-	lehet	el	költeni
+
+%Nem minden tulajdonságot kell a más kultúrával magyarázni .
+-	kell	-	magyarázni
+-	kell	-	magyarázni
+-	kell	-	magyarázni
+-	kell	-	magyarázni
+
+%ahová jóval kevesebb néző fér be .
+be	fér	-	-
+be	fér	-	-
+be	fér	-	-
+be	fér	-	-
+
+%Hogy mondaná meg valaki ,
+meg	mondaná	-	-
+meg	mondaná	-	-
+meg	mondaná	-	-
+meg	mondaná	-	-
+
+%a betakarítást is gépesíteni kellett ,
+-	kellett	-	gépesíteni
+-	kellett	-	gépesíteni
+-	kellett	-	gépesíteni
+-	kellett	-	gépesíteni
+
+%hogy olyan pályázókat nevezzenek ki ezekre a posztokra ,
+ki	nevezzenek	-	-
+ki	nevezzenek	-	-
+ki	nevezzenek	-	-
+ki	nevezzenek	-	-
+
+%tehát meg kell előznünk ,
+-	kell	meg	előznünk
+-	kell	meg	előznünk
+-	kell	meg	előznünk
+-	kell	meg	előznünk
+
+%A területi listákat 22-én 16 óráig lehet bejelenteni .
+-	lehet	be	jelenteni
+-	lehet	be	jelenteni
+-	lehet	-	bejelenteni
+-	lehet	-	bejelenteni
+
+%Váli Dezső egy olajfestményének parafrázisát alkották meg úgy ,
+meg	alkották	-	-
+meg	alkották	-	-
+meg	alkották	-	-
+meg	alkották	-	-
+
+%Hol tehetem meg ?
+meg	tehetem	-	-
+meg	tehetem	-	-
+meg	tehetem	-	-
+meg	tehetem	-	-
+
+%Az RTL Klub tizedik születésnapja alkalmából a csatorna lepett meg egy mobillal .
+meg	lepett	-	-
+meg	lepett	-	-
+meg	lepett	-	-
+meg	lepett	-	-
+
+%Segítséget szeretnék kérni !
+-	szeretnék	-	kérni
+-	szeretnék	-	kérni
+-	szeretnék	-	kérni
+-	szeretnék	-	kérni
+
+%és mindemellett szeretné felkészíteni őket a szakma buktatóira -
+-	szeretné	fel	készíteni
+-	szeretné	fel	készíteni
+-	szeretné	-	felkészíteni
+-	szeretné	-	felkészíteni
+
+%tehát ezek környezetében élő lakosságot fokozatosan fel kell készíteni arra ,
+-	kell	fel	készíteni
+-	kell	fel	készíteni
+-	kell	fel	készíteni
+-	kell	fel	készíteni
+
+%mit lélegeznek ki a falak ,
+ki	lélegeznek	-	-
+-	lélegeznek	-	-
+ki	lélegeznek	-	-
+ki	lélegeznek	-	-
+
+%ahol meg is találtuk őket .
+meg	találtuk	-	-
+meg	találtuk	-	-
+meg	találtuk	-	-
+-	találtuk	-	-
+
+%A Fresh &amp; Easy tul azon hogy nem tudott jo helyen uzleteket nyitni ,
+-	tudott	-	nyitni
+-	tudott	-	nyitni
+-	tudott	-	nyitni
+-	tudott	-	nyitni
+
+%illetve olyan keresztszülőket próbálunk szerezni minden harmadik gyereknek ,
+-	próbálunk	-	szerezni
+-	próbálunk	-	szerezni
+-	próbálunk	-	szerezni
+-	próbálunk	-	szerezni
+
+%Gyere át azonnal !
+át	gyere	-	-
+át	gyere	-	-
+-	gyere	-	-
+át	gyere	-	-
+
+%Ne vesztegesd el az idődet !
+el	vesztegesd	-	-
+el	vesztegesd	-	-
+el	vesztegesd	-	-
+el	vesztegesd	-	-
+
+%mert nem akar kereszténnyé válni ,
+-	akar	-	válni
+-	akar	-	válni
+-	akar	-	válni
+-	akar	-	válni
+
+%950-nél szállok ki .
+ki	szállok	-	-
+ki	szállok	-	-
+ki	szállok	-	-
+ki	szállok	-	-
+
+%hogy az elmúlt években az átalakulási folyamatban nagyon sok önkormányzat nem kapta meg az őt egyébként törvényben megillető tulajdoni részesedést .
+meg	kapta	-	-
+meg	kapta	-	-
+meg	kapta	-	-
+meg	kapta	-	-
+
+%Európába már el sem jut a Facebook-mobil
+el	jut	-	-
+el	jut	-	-
+el	jut	-	-
+el	jut	-	-
+
+%az országgyűlési biztosok működése el sem tudott kezdődni azért ,
+-	tudott	el	kezdődni
+-	tudott	el	kezdődni
+el	tudott	-	kezdődni
+-	tudott	el	kezdődni
+
+%az e-újságért kattintson ide !
+ide	kattintson	-	-
+ide	kattintson	-	-
+-	kattintson	-	-
+ide	kattintson	-	-
+
+%hogy igazán csak az tud uralkodni ,
+-	tud	-	uralkodni
+-	tud	-	uralkodni
+-	tud	-	uralkodni
+-	tud	-	uralkodni
+
+%000 nettobol nem lehet lakast venni ,
+-	lehet	-	venni
+-	lehet	-	venni
+-	lehet	-	venni
+-	lehet	-	venni
+
+%típusú kérdésre kell egyidejűleg egy választ adnunk .
+-	kell	-	adnunk
+-	kell	-	adnunk
+-	kell	-	adnunk
+-	kell	-	adnunk
+
+%a színpadért azonban fizetni kell .
+-	kell	-	fizetni
+-	kell	-	fizetni
+-	kell	-	fizetni
+-	kell	-	fizetni
+
+%mert hogyha bizonyítani fog ,
+-	fog	-	bizonyítani
+-	fog	-	bizonyítani
+-	fog	-	bizonyítani
+-	fog	-	bizonyítani
+
+%az Is Arenas Stadion nem felel meg a biztonsági előírásoknak .
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+
+%mi fér bele a minisztériumi segélybe -
+bele	fér	-	-
+bele	fér	-	-
+bele	fér	-	-
+bele	fér	-	-
+
+%hogy a éhgyomri és a evés utáni vizsgálat nem mutat ki semmit ,
+ki	mutat	-	-
+ki	mutat	-	-
+ki	mutat	-	-
+ki	mutat	-	-
+
+%amelyben Szentiványi Domokos és a magyar függetlenségi mozgalom történetét dolgozta föl .
+föl	dolgozta	-	-
+föl	dolgozta	-	-
+föl	dolgozta	-	-
+föl	dolgozta	-	-
+
+%TM-meditációs oktatás INGYEN Transzcendentális Meditációt oktató INGYENES tanfolyamra lehet jelentkezni !!!!
+-	lehet	-	jelentkezni
+-	lehet	-	jelentkezni
+-	lehet	-	jelentkezni
+-	lehet	-	jelentkezni
+
+%akár a 11-15. századig nyúlhat vissza
+vissza	nyúlhat	-	-
+vissza	nyúlhat	-	-
+vissza	nyúlhat	-	-
+vissza	nyúlhat	-	-
+
+%ennek a felét sem tudjuk teljesíteni ,
+-	tudjuk	-	teljesíteni
+-	tudjuk	-	teljesíteni
+-	tudjuk	-	teljesíteni
+-	tudjuk	-	teljesíteni
+
+%Mit kell figyelni egy ilyen vásárlásnál ?
+-	kell	-	figyelni
+-	kell	-	figyelni
+-	kell	-	figyelni
+-	kell	-	figyelni
+
+%Ez még eddig egyszer sem vetődött fel .
+fel	vetődött	-	-
+fel	vetődött	-	-
+fel	vetődött	-	-
+fel	vetődött	-	-
+
+%megállapítani csak azt tudtam ,
+-	tudtam	meg	állapítani
+-	tudtam	meg	állapítani
+-	tudtam	-	megállapítani
+-	tudtam	-	megállapítani
+
+%hogy fegyelmezetlenül hajtottuk végre a támadójátékot ,
+végre	hajtottuk	-	-
+végre	hajtottuk	-	-
+-	hajtottuk	-	-
+végre	hajtottuk	-	-
+
+%Vajon el lehet -e hibázni másfél évvel a belépés előtt a csatlakozást ?
+-	lehet	el	hibázni
+-	lehet	el	hibázni
+-	lehet	-	hibázni
+-	lehet	el	hibázni
+
+%a legutóbbi 24 óra sporthírei Mondd el a véleményed -
+el	mondd	-	-
+el	mondd	-	-
+el	mondd	-	-
+el	mondd	-	-
+
+%A stratégiának nem a betegápolásról kell szólnia ,
+-	kell	-	szólnia
+-	kell	-	szólnia
+-	kell	-	szólnia
+-	kell	-	szólnia
+
+%de először van alkalmam szólni többpárti alapon működő ,
+-	van	-	szólni
+-	van	-	szólni
+-	van	-	szólni
+-	van	-	szólni
+
+%Az alapozót egyenletesen kenjük szét a bőrünkön ,
+szét	kenjük	-	-
+szét	kenjük	-	-
+-	kenjük	-	-
+szét	kenjük	-	-
+
+%illetve északi irányból ide fog bekapcsolódni (
+-	fog	be	kapcsolódni
+-	fog	be	kapcsolódni
+-	fog	-	bekapcsolódni
+-	fog	-	bekapcsolódni
+
+%Lőrincz Emil maradt ki a vendégegyüttesből .
+ki	maradt	-	-
+ki	maradt	-	-
+ki	maradt	-	-
+ki	maradt	-	-
+
+%másrészt az ingatlan megóvását rendelte el a kormány .
+el	rendelte	-	-
+el	rendelte	-	-
+el	rendelte	-	-
+el	rendelte	-	-
+
+%hogy nem kell használni !
+-	kell	-	használni
+-	kell	-	használni
+-	kell	-	használni
+-	kell	-	használni
+
+%hogy sikerült kétszer is megnéznem a filmet .
+-	sikerült	meg	néznem
+-	sikerült	meg	néznem
+-	sikerült	-	megnéznem
+-	sikerült	-	megnéznem
+
+%Egyben engedjék dolgozni a mentésben résztvevő ,
+-	engedjék	-	dolgozni
+-	engedjék	-	dolgozni
+-	engedjék	-	dolgozni
+-	engedjék	-	dolgozni
+
+%vagy összegre próbálják kompenzálni magukat .
+-	próbálják	-	kompenzálni
+-	próbálják	-	kompenzálni
+-	próbálják	-	kompenzálni
+-	próbálják	-	kompenzálni
+
+%akinek a kilétét nem fedik fel a források -
+fel	fedik	-	-
+fel	fedik	-	-
+fel	fedik	-	-
+fel	fedik	-	-
+
+%nem kell tartani :
+-	kell	-	tartani
+-	kell	-	tartani
+-	kell	-	tartani
+-	kell	-	tartani
+
+%Nem tudom megmagyarázni .
+-	tudom	meg	magyarázni
+-	tudom	meg	magyarázni
+-	tudom	-	megmagyarázni
+-	tudom	-	megmagyarázni
+
+%A Gizmodo egyik felhasználója állítólag bolhapiacon jutott hozzá az első
+hozzá	jutott	-	-
+hozzá	jutott	-	-
+hozzá	jutott	-	-
+hozzá	jutott	-	-
+
+%Az oklevélírás technikáját francia egyetemeken sajátították el ,
+el	sajátították	-	-
+el	sajátították	-	-
+el	sajátították	-	-
+el	sajátították	-	-
+
+%de legkésőbb márciusban már el is indulhat a szolgáltatás .
+el	indulhat	-	-
+el	indulhat	-	-
+-	indulhat	-	-
+el	indulhat	-	-
+
+%Most meg nem mondom ,
+meg	mondom	-	-
+meg	mondom	-	-
+meg	mondom	-	-
+meg	mondom	-	-
+
+%Persze nekem és Yoshirou-sannak kellett elöl mennünk .
+-	kellett	-	mennünk
+-	kellett	-	mennünk
+-	kellett	-	mennünk
+-	kellett	-	mennünk
+
+%hogy az antiszemitizmus és a tudatlanság minden formája ellen küzdeni kell .
+-	kell	-	küzdeni
+-	kell	-	küzdeni
+-	kell	-	küzdeni
+-	kell	-	küzdeni
+
+%Arról se feledkezzünk meg ,
+meg	feledkezzünk	-	-
+meg	feledkezzünk	-	-
+meg	feledkezzünk	-	-
+meg	feledkezzünk	-	-
+
+%majd egy csókban forrt össze ajkatok .
+össze	forrt	-	-
+össze	forrt	-	-
+össze	forrt	-	-
+össze	forrt	-	-
+
+%hisz az áldozatokat a viharos tengerbe akarták fojtani .
+-	akarták	-	fojtani
+-	akarták	-	fojtani
+-	akarták	-	fojtani
+-	akarták	-	fojtani
+
+%Akkor lehet biztonsággal tervezni a jövőt ,
+-	lehet	-	tervezni
+-	lehet	-	tervezni
+-	lehet	-	tervezni
+-	lehet	-	tervezni
+
+%Azt akarja jelenteni ez ,
+-	akarja	-	jelenteni
+-	akarja	-	jelenteni
+-	akarja	-	jelenteni
+-	akarja	-	jelenteni
+
+%hogy öröm lesz nézni ...
+-	lesz	-	nézni
+-	lesz	-	nézni
+-	lesz	-	nézni
+-	lesz	-	nézni
+
+%Gondolj vissza arra a kis házra ,
+vissza	gondolj	-	-
+vissza	gondolj	-	-
+vissza	gondolj	-	-
+vissza	gondolj	-	-
+
+%mintha azt akarná kifejezni ,
+-	akarná	ki	fejezni
+-	akarná	ki	fejezni
+-	akarná	-	kifejezni
+-	akarná	-	kifejezni
+
+%Nem tudnak olvasni ?
+-	tudnak	-	olvasni
+-	tudnak	-	olvasni
+-	tudnak	-	olvasni
+-	tudnak	-	olvasni
+
+%hogy nem érdemlik meg az egészségügyiek ,
+meg	érdemlik	-	-
+meg	érdemlik	-	-
+meg	érdemlik	-	-
+meg	érdemlik	-	-
+
+%mivel második éve hétről-hétre lejár oda ,
+le	jár	-	-
+le	jár	-	-
+oda	lejár	-	-
+-	lejár	-	-
+
+%A Győr már régóta szeretne centert igazolni ,
+-	szeretne	-	igazolni
+-	szeretne	-	igazolni
+-	szeretne	-	igazolni
+-	szeretne	-	igazolni
+
+%olyan dolgok iránt kezdtek érdeklődni ,
+-	kezdtek	-	érdeklődni
+-	kezdtek	-	érdeklődni
+-	kezdtek	-	érdeklődni
+-	kezdtek	-	érdeklődni
+
+%hogy nekünk annak a Magyarországnak az eszményi képét kell fölrajzolnunk magunk elé ,
+-	kell	föl	rajzolnunk
+-	kell	föl	rajzolnunk
+-	kell	-	fölrajzolnunk
+-	kell	-	fölrajzolnunk
+
+%válasszon ki egyet-egyet a jelöltek közül .
+ki	válasszon	-	-
+ki	válasszon	-	-
+ki	válasszon	-	-
+ki	válasszon	-	-
+
+%Én azt szoktam mondani ,
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+
+%bevezetőül a jobboldal Bartus Lászlót kínálta meg egy bombasztikus bejelenttéssel ...
+meg	kínálta	-	-
+meg	kínálta	-	-
+meg	kínálta	-	-
+meg	kínálta	-	-
+
+%mert ha ezt nem tanulja meg ,
+meg	tanulja	-	-
+meg	tanulja	-	-
+meg	tanulja	-	-
+meg	tanulja	-	-
+
+%százezreket átverve húzzák le a 0.facebook.com fizetőssé tételével úgy ,
+le	húzzák	-	-
+le	húzzák	-	-
+le	húzzák	-	-
+le	húzzák	-	-
+
+%szegedi frakcióülésén Demeter Ervint kérte fel titkosszolgálati miniszternek -
+fel	kérte	-	-
+fel	kérte	-	-
+fel	kérte	-	-
+fel	kérte	-	-
+
+%nyissuk meg azokat az RMDSZ-szervezeteket is ,
+meg	nyissuk	-	-
+meg	nyissuk	-	-
+meg	nyissuk	-	-
+meg	nyissuk	-	-
+
+%hiszen veszélyek egész zuhataga leselkedik rá .
+-	leselkedik	-	-
+-	leselkedik	-	-
+rá	leselkedik	-	-
+rá	leselkedik	-	-
+
+%igazat kell adni az akkori címadóknak .
+-	kell	-	adni
+-	kell	-	adni
+-	kell	-	adni
+-	kell	-	adni
+
+%a Grósz-kormány aligha éri meg évfordulóját ,
+meg	éri	-	-
+meg	éri	-	-
+meg	éri	-	-
+meg	éri	-	-
+
+%hogy hogyan lehet kevés pénzből jó csapatot csinálni .
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+
+%akárkit KI FIZETI A LAKBÉRT ,
+-	fizeti	-	-
+-	fizeti	-	-
+-	fizeti	-	-
+ki	fizeti	-	-
+
+%itt azt kell megnézni ,
+-	kell	meg	nézni
+-	kell	meg	nézni
+-	kell	-	megnézni
+-	kell	-	megnézni
+
+%amikor olajjal lehetett fűteni ,
+-	lehetett	-	fűteni
+-	lehetett	-	fűteni
+-	lehetett	-	fűteni
+-	lehetett	-	fűteni
+
+%a ki kerezt fan kinzenvedesebe még hál .
+-	hál	-	-
+-	hál	-	-
+-	hál	-	-
+ki	hál	-	-
+
+%panaszkönyvet lehet kérni ???
+-	lehet	-	kérni
+-	lehet	-	kérni
+-	lehet	-	kérni
+-	lehet	-	kérni
+
+%így Jane Fonda vehette át édesapja díját ,
+át	vehette	-	-
+át	vehette	-	-
+-	vehette	-	-
+át	vehette	-	-
+
+%hogy csak a futóhomokos területeken fordul elő a szélerózió jelensége ,
+elő	fordul	-	-
+elő	fordul	-	-
+elő	fordul	-	-
+elő	fordul	-	-
+
+%az ágazatban átlagosnak tekintett szintet 30-40 százalékkal meghaladó működési költségekre hivatkozással építene le .
+le	építene	-	-
+le	építene	-	-
+le	építene	-	-
+le	építene	-	-
+
+%ki kell építeni azokat a mechanizmusokat ,
+-	kell	ki	építeni
+-	kell	ki	építeni
+-	kell	ki	építeni
+-	kell	ki	építeni
+
+%Én is meg voltam hatva ,
+-	voltam	-	-
+-	voltam	-	-
+meg	voltam	-	-
+-	voltam	-	-
+
+%állampolgárainak meg fogja tiltani ,
+-	fogja	meg	tiltani
+-	fogja	meg	tiltani
+-	fogja	meg	tiltani
+-	fogja	meg	tiltani
+
+%Hogy hová akart kilyukadni ezzel Kósa Lajos ,
+-	akart	ki	lyukadni
+-	akart	ki	lyukadni
+-	akart	-	kilyukadni
+-	akart	-	kilyukadni
+
+%Le szeretném tiltani az előfizetésemet !
+-	szeretném	le	tiltani
+-	szeretném	le	tiltani
+-	szeretném	le	tiltani
+-	szeretném	le	tiltani
+
+%vagy ha ez addigra valamilyen ok miatt mégsem következik be ,
+be	következik	-	-
+be	következik	-	-
+be	következik	-	-
+be	következik	-	-
+
+%Miért kell félinformációkkal megtéveszteni a közvéleményt ?
+-	kell	meg	téveszteni
+-	kell	meg	téveszteni
+-	kell	-	megtéveszteni
+-	kell	-	megtéveszteni
+
+%aki segít a doktornak Dan karját tartani ,
+-	segít	-	tartani
+-	segít	-	tartani
+-	segít	-	tartani
+-	segít	-	tartani
+
+%mert váltani fogják egymást .
+-	fogják	-	váltani
+-	fogják	-	váltani
+-	fogják	-	váltani
+-	fogják	-	váltani
+
+%ha ő mondja fel a szerződést .
+fel	mondja	-	-
+fel	mondja	-	-
+fel	mondja	-	-
+fel	mondja	-	-
+
+%ám a végén így is sikerült szépen búcsúzniuk a balatoniaknak az első osztálytól .
+-	sikerült	-	búcsúzniuk
+-	sikerült	-	búcsúzniuk
+-	sikerült	-	búcsúzniuk
+-	sikerült	-	búcsúzniuk
+
+%Érveket hoznak fel a magyar tannyelvű iskolák működése mellett :
+fel	hoznak	-	-
+fel	hoznak	-	-
+fel	hoznak	-	-
+fel	hoznak	-	-
+
+%a Serie A 1929 óta történetében ezt a határt huszonkilencen érték el .
+el	érték	-	-
+el	érték	-	-
+-	-	-	-
+el	érték	-	-
+
+%hogy a reggeli műsorban szerepeljen újra &ndash;
+-	szerepeljen	-	-
+-	szerepeljen	-	-
+-	szerepeljen	-	-
+újra	szerepeljen	-	-
+
+%hallani se akar többé ideológiákról ?
+-	akar	-	hallani
+-	akar	-	hallani
+-	akar	-	hallani
+-	akar	-	hallani
+
+%Az alapkövet az Audi nagyberuházás tette le ,
+le	tette	-	-
+le	tette	-	-
+le	tette	-	-
+le	tette	-	-
+
+%tette hozzá .
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+
+%az európai stabilitási egyezmény aláírásáig egyaránt sikerül megkötni a szlovák és a román alapszerződést is .
+-	sikerül	meg	kötni
+-	sikerül	meg	kötni
+-	sikerül	-	megkötni
+-	sikerül	-	megkötni
+
+%de sajnos nem sikerültek túl jól .
+-	sikerültek	-	-
+-	sikerültek	-	-
+-	sikerültek	-	-
+túl	sikerültek	-	-
+
+%az energiatakarékosságra irányuló világítástechnikai és az életmód javítását szolgáló tevékenységekre kíván összpontosítani .
+-	kíván	-	összpontosítani
+-	kíván	-	összpontosítani
+-	kíván	-	összpontosítani
+-	kíván	-	összpontosítani
+
+%A társtalanság globális problémájára kutatók szerint a robottárs hozza el a megoldást .
+el	hozza	-	-
+el	hozza	-	-
+el	hozza	-	-
+el	hozza	-	-
+
+%Fogadja el ,
+el	fogadja	-	-
+el	fogadja	-	-
+el	fogadja	-	-
+el	fogadja	-	-
+
+%ennek eredményeképp ki is hagyták a 2006-os VB keretből .
+ki	hagyták	-	-
+ki	hagyták	-	-
+ki	hagyták	-	-
+ki	hagyták	-	-
+
+%akkor az állam miért növeli tovább ezt a különbséget ?
+tovább	növeli	-	-
+tovább	növeli	-	-
+-	növeli	-	-
+tovább	növeli	-	-
+
+%Az ausztrál mögött a spanyol Alonsó és a brit Hamilton érte el a második- ,
+el	érte	-	-
+el	érte	-	-
+el	érte	-	-
+el	érte	-	-
+
+%összességében ebből az adósságkonszolidációból az önkormányzatok jönnek ki a legjobban .
+ki	jönnek	-	-
+ki	jönnek	-	-
+ki	jönnek	-	-
+ki	jönnek	-	-
+
+%add végre meg magad ,
+meg	add	-	-
+meg	add	-	-
+meg	add	-	-
+meg	add	-	-
+
+%Az új lengyel írógeneráció meg panaszkodik ,
+-	panaszkodik	-	-
+-	panaszkodik	-	-
+meg	panaszkodik	-	-
+meg	panaszkodik	-	-
+
+%miként helyezkedjen el a színház a dél-pesti expótelken .
+el	helyezkedjen	-	-
+el	helyezkedjen	-	-
+el	helyezkedjen	-	-
+el	helyezkedjen	-	-
+
+%tette hozzá .
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+
+%azután indultam 5 óra körül újra tanítani a belvárosba .
+-	indultam	-	tanítani
+-	indultam	-	tanítani
+-	indultam	-	tanítani
+-	indultam	-	tanítani
+
+%add ide a harmadik vödör vizet is !
+ide	add	-	-
+ide	add	-	-
+ide	add	-	-
+ide	add	-	-
+
+%ezért csak egy ember fér rá .
+rá	fér	-	-
+rá	fér	-	-
+rá	fér	-	-
+rá	fér	-	-
+
+%hogy a Danninger hentes egyik segédjét fogadja föl futballból házitanítónak .
+föl	fogadja	-	-
+föl	fogadja	-	-
+föl	fogadja	-	-
+föl	fogadja	-	-
+
+%Társadalmilag az ember megoldani nem tudja ...
+-	tudja	meg	oldani
+-	tudja	meg	oldani
+-	tudja	-	megoldani
+-	tudja	-	megoldani
+
+%az Electronic Arts fog megjelentetni .
+-	fog	meg	jelentetni
+-	fog	meg	jelentetni
+-	fog	-	megjelentetni
+-	fog	-	megjelentetni
+
+%és pénzt tudjon keresni .
+-	tudjon	-	keresni
+-	tudjon	-	keresni
+-	tudjon	-	keresni
+-	tudjon	-	keresni
+
+%amelyet szerdán juttattak el az MTI-hez .
+el	juttattak	-	-
+el	juttattak	-	-
+el	juttattak	-	-
+el	juttattak	-	-
+
+%ha az Európai Unióhoz kívánunk csatlakozni az elkövetkezendőkben .
+-	kívánunk	-	csatlakozni
+-	kívánunk	-	csatlakozni
+-	kívánunk	-	csatlakozni
+-	kívánunk	-	csatlakozni
+
+%szeretnék nyerni egy Társas Játék kerékpárt &lt; 3
+-	szeretnék	-	nyerni
+-	szeretnék	-	nyerni
+-	szeretnék	-	nyerni
+-	szeretnék	-	nyerni
+
+%akkor miért adják el a 10000-es csomagot ?
+el	adják	-	-
+el	adják	-	-
+el	adják	-	-
+el	adják	-	-
+
+%majd a második játéknapon a Villarreal CF otthonában két góllal és egy gólpasszal vette ki a részét a Real 5-0-s diadalából .
+ki	vette	-	-
+ki	vette	-	-
+ki	vette	-	-
+ki	vette	-	-
+
+%Most még hallani sem akarnak ekkora összegről illetékes helyen ,
+-	akarnak	-	hallani
+-	akarnak	-	hallani
+-	akarnak	-	hallani
+-	akarnak	-	hallani
+
+%Ezen az úton fogom vezetni továbbra is Szerbiát .
+-	fogom	-	vezetni
+-	fogom	-	vezetni
+-	fogom	-	vezetni
+-	fogom	-	vezetni
+
+%aki Szudánból érkezett Guineába szerencsét próbálni .
+-	érkezett	-	próbálni
+-	érkezett	-	próbálni
+-	érkezett	-	próbálni
+-	érkezett	-	próbálni
+
+%üres zseb programot valósít meg a kormány
+meg	valósít	-	-
+meg	valósít	-	-
+meg	valósít	-	-
+meg	valósít	-	-
+
+%Hogyan tudom kiterjeszteni a wifimet ?
+-	tudom	ki	terjeszteni
+-	tudom	ki	terjeszteni
+-	tudom	-	kiterjeszteni
+-	tudom	-	kiterjeszteni
+
+%A másik ágon a papírforma szerint a románok jutnak be a fináléba ,
+be	jutnak	-	-
+be	jutnak	-	-
+-	jutnak	-	-
+be	jutnak	-	-
+
+%a talán Totti hiányától megtáltosodott Del Piero sokadszor dolgoztatta meg Isakssont ,
+meg	dolgoztatta	-	-
+meg	dolgoztatta	-	-
+meg	dolgoztatta	-	-
+meg	dolgoztatta	-	-
+
+%Az ezen irányelvben meghatározott egyes rendelkezések kedvezőbb alternatíváinak feltárása érdekében el lehet határozni ,
+-	lehet	el	határozni
+-	lehet	el	határozni
+-	lehet	el	határozni
+-	lehet	el	határozni
+
+%Bocsáss meg ,
+meg	bocsáss	-	-
+meg	bocsáss	-	-
+meg	bocsáss	-	-
+meg	bocsáss	-	-
+
+%Nem csak a közoktatásban kell az oktató bérét növelnünk ,
+-	kell	-	növelnünk
+-	kell	-	növelnünk
+-	kell	-	növelnünk
+-	kell	-	növelnünk
+
+%így engedd meg ,
+meg	engedd	-	-
+meg	engedd	-	-
+meg	engedd	-	-
+meg	engedd	-	-
+
+%Egyszer s mindenkorra vissza kell utasítanom azt (
+-	kell	vissza	utasítanom
+-	kell	vissza	utasítanom
+-	kell	-	utasítanom
+-	kell	vissza	utasítanom
+
+%Összes műveit 25 kötetben 1928-1929-ben a Szent István Társulat adta ki ,
+ki	adta	-	-
+ki	adta	-	-
+ki	adta	-	-
+ki	adta	-	-
+
+%hogy a magyarsága természetes és igy nem kell mindennap a tükörbe nézve ismételgetni ,
+-	kell	-	ismételgetni
+-	kell	-	ismételgetni
+-	kell	-	ismételgetni
+-	kell	-	ismételgetni
+
+%így nem elég megtankolni a különféle ,
+-	-	-	-
+el	ég	-	-
+-	-	-	megtankolni
+-	elég	-	megtankolni
+
+%ötvenmillió ember pusztult el abban a háborúban ,
+el	pusztult	-	-
+el	pusztult	-	-
+el	pusztult	-	-
+el	pusztult	-	-
+
+%Biztos csak messzirol merték megnézni ,
+-	merték	meg	nézni
+-	merték	meg	nézni
+-	merték	-	megnézni
+-	merték	-	megnézni
+
+%El kell fogadtatni ,
+-	kell	el	fogadtatni
+-	kell	el	fogadtatni
+-	kell	el	fogadtatni
+-	kell	el	fogadtatni
+
+%Bár hagyományos módszerrel lopott bankkártyákkal még mindig gyakrabban élnek vissza ,
+vissza	élnek	-	-
+vissza	élnek	-	-
+-	élnek	-	-
+vissza	élnek	-	-
+
+%hogy ezen folyamatosan fejleszteni kell ,
+-	kell	-	fejleszteni
+-	kell	-	fejleszteni
+-	kell	-	fejleszteni
+-	kell	-	fejleszteni
+
+%Hát ezt nem hiszem el !!
+el	hiszem	-	-
+el	hiszem	-	-
+el	hiszem	-	-
+el	hiszem	-	-
+
+%így jobban fel tudod mérni a sebességét ,
+-	tudod	fel	mérni
+-	tudod	fel	mérni
+-	tudod	fel	mérni
+-	tudod	fel	mérni
+
+%hogy nem kell kellemetlenül érezned magad vagy szégyenkezned ,
+-	kell	-	érezned
+-	kell	-	érezned
+-	vagy	-	szégyenkezned
+-	kell	-	érezned	-	szégyenkezned
+
+%Így hát egy ilyen karkötőt is készítettem neki .
+-	készítettem	-	-
+-	készítettem	-	-
+neki	készítettem	-	-
+neki	készítettem	-	-
+
+%A tévékbe be sem tehetik a lábukat ,
+be	tehetik	-	-
+be	tehetik	-	-
+be	tehetik	-	-
+be	tehetik	-	-
+
+%külső szervezetnek kíván adni és biztosítani ,
+-	kíván	-	adni
+-	kíván	-	adni
+-	kíván	-	adni
+-	kíván	-	adni	-	biztosítani
+
+%vigyorodott el ,
+el	vigyorodott	-	-
+el	vigyorodott	-	-
+el	vigyorodott	-	-
+el	vigyorodott	-	-
+
+%Egy olyan döntéselőkészítés híre került a be a sajtóba ,
+be	került	-	-
+be	került	-	-
+-	került	-	-
+be	került	-	-
+
+%míg végül oda lyukadunk ki ,
+ki	lyukadunk	-	-
+ki	lyukadunk	-	-
+ki	lyukadunk	-	-
+oda	lyukadunk	-	-
+
+%de jelentős számban fordul elő erdei béka és levelibéka ,
+elő	fordul	-	-
+elő	fordul	-	-
+elő	fordul	-	-
+elő	fordul	-	-
+
+%mikor egyedül beszélték meg a fiuk halálának a körülményeit .
+meg	beszélték	-	-
+meg	beszélték	-	-
+meg	beszélték	-	-
+meg	beszélték	-	-
+
+%elég annyit tudni ,
+-	-	-	-
+el	ég	-	-
+-	-	-	tudni
+-	elég	-	tudni
+
+%lépjen be '
+be	lépjen	-	-
+be	lépjen	-	-
+be	lépjen	-	-
+be	lépjen	-	-
+
+%Kizárólag azzal a kérdéssel kapcsolatban szeretném megfogalmazni a kételyeimet ,
+-	szeretném	meg	fogalmazni
+-	szeretném	meg	fogalmazni
+-	szeretném	-	megfogalmazni
+-	szeretném	-	megfogalmazni
+
+%a zeneimádók pedig egy megfelelő microSD-kártyával akár 16 gigabájtnyi dalt is felmásolhatnak rá .
+fel	másolhatnak	-	-
+fel	másolhatnak	-	-
+rá	felmásolhatnak	-	-
+-	felmásolhatnak	-	-
+
+%amit nem mondhatnak el -
+el	mondhatnak	-	-
+el	mondhatnak	-	-
+el	mondhatnak	-	-
+el	mondhatnak	-	-
+
+%osszák el a többi osztályba ,
+el	osszák	-	-
+el	osszák	-	-
+el	osszák	-	-
+el	osszák	-	-
+
+%így áthaladáskor azok alig tudnak manőverezni ,
+-	tudnak	-	manőverezni
+-	tudnak	-	manőverezni
+-	tudnak	-	manőverezni
+-	tudnak	-	manőverezni
+
+%A rakéta becsapódása és a kényszerleszállás között 25 perc telt el .
+el	telt	-	-
+el	telt	-	-
+el	telt	-	-
+el	telt	-	-
+
+%és lógó órral osonnak ki a fővárosi jégpalotából .
+ki	osonnak	-	-
+ki	osonnak	-	-
+ki	osonnak	-	-
+ki	osonnak	-	-
+
+%a környezetét se ismeri majd fel .
+fel	ismeri	-	-
+fel	ismeri	-	-
+fel	ismeri	-	-
+fel	ismeri	-	-
+
+%ha valakit repülősóval kell magához téríteni ,
+-	kell	-	téríteni
+-	kell	-	téríteni
+-	kell	-	téríteni
+-	kell	-	téríteni
+
+%hogy az u. n. rezsicsökkentés hányszorosát fizeti vissza a
+vissza	fizeti	-	-
+vissza	fizeti	-	-
+-	fizeti	-	-
+vissza	fizeti	-	-
+
+%ide számítjuk Németh László romániai útinaplóját ,
+-	számítjuk	-	-
+-	számítjuk	-	-
+-	számítjuk	-	-
+ide	számítjuk	-	-
+
+%Tetszik érteni ?
+-	tetszik	-	érteni
+-	tetszik	-	érteni
+-	tetszik	-	érteni
+-	tetszik	-	érteni
+
+%A csütörtöki összecsapások közül a Ghána-Olaszország találkozó emelkedik ki ,
+ki	emelkedik	-	-
+ki	emelkedik	-	-
+ki	emelkedik	-	-
+ki	emelkedik	-	-
+
+%forgalmát ez az intézkedés csökkenteni fogja ,
+-	fogja	-	csökkenteni
+-	fogja	-	csökkenteni
+-	fogja	-	csökkenteni
+-	fogja	-	csökkenteni
+
+%hogy új felesége végre örökösökkel ajándékozhassa meg őt .
+meg	ajándékozhassa	-	-
+meg	ajándékozhassa	-	-
+meg	ajándékozhassa	-	-
+meg	ajándékozhassa	-	-
+
+%A Ferencváros ellen a kék-fehérek várhatóan ismét kontrákra rendezkednek majd be ,
+be	rendezkednek	-	-
+be	rendezkednek	-	-
+be	rendezkednek	-	-
+be	rendezkednek	-	-
+
+%másfelől pedig el kívánja érni ,
+-	kívánja	el	érni
+-	kívánja	el	érni
+-	kívánja	el	érni
+-	kívánja	el	érni
+
+%Pontosabban csak ezért lehet szeretni .
+-	lehet	-	szeretni
+-	lehet	-	szeretni
+-	lehet	-	szeretni
+-	lehet	-	szeretni
+
+%és erre nézve azt kell mondanom ,
+-	kell	-	mondanom
+-	kell	-	mondanom
+-	kell	-	mondanom
+-	kell	-	mondanom
+
+%Nagy kedvem van a nemzeti csapatot irányítani ,
+-	van	-	irányítani
+-	van	-	irányítani
+-	van	-	irányítani
+-	van	-	irányítani
+
+%ahonnan 5 millió forintot el is tulajdonítottak .
+el	tulajdonítottak	-	-
+el	tulajdonítottak	-	-
+-	tulajdonítottak	-	-
+el	tulajdonítottak	-	-
+
+%Claude Deruet és Jacques Callot művészetében a manierista stílusnak egy eltérő válfaja alakult ki .
+ki	alakult	-	-
+ki	alakult	-	-
+ki	alakult	-	-
+ki	alakult	-	-
+
+%Végülis Önökhöz ki jelentette be azt ,
+be	jelentette	-	-
+be	jelentette	-	-
+be	jelentette	-	-
+ki	jelentette	-	-
+
+%Ott megpróbál segíteni a testvére pszichiáterének ,
+meg	próbál	-	segíteni
+meg	próbál	-	segíteni
+-	megpróbál	-	segíteni
+-	megpróbál	-	segíteni
+
+%a cégnél 13 éve dolgozó szakember az ügyvezető igazgatói posztból lépett fel a legfelsőbb pozícióba .
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+
+%amit 40-es szint alatti cuccokba tudtok beletenni .
+-	tudtok	bele	tenni
+-	tudtok	bele	tenni
+-	tudtok	-	beletenni
+-	tudtok	-	beletenni
+
+%Ám emberhátrány ide vagy oda ,
+-	-	-	-
+oda	vagy	-	-
+-	-	-	-
+-	vagy	-	-
+
+%Karácsony előtt a kulturális intézmények is megpróbálnak segíteni a rászorulókon .
+meg	próbálnak	-	segíteni
+meg	próbálnak	-	segíteni
+-	megpróbálnak	-	segíteni
+-	megpróbálnak	-	segíteni
+
+%akik egy tengeralattjáró belsejébe zárva próbálnak megbirkózni a háborúval egy olyan helyzetben ,
+-	próbálnak	meg	birkózni
+-	próbálnak	meg	birkózni
+-	próbálnak	-	megbirkózni
+-	próbálnak	-	megbirkózni
+
+%Valamit tudnod kell .
+-	kell	-	tudnod
+-	kell	-	tudnod
+-	kell	-	tudnod
+-	kell	-	tudnod
+
+%ám egy Japán cég egy igen egyedi megoldással rukkolt elő a kézi konzolok tulajdonosainak .
+elő	rukkolt	-	-
+elő	rukkolt	-	-
+elő	rukkolt	-	-
+elő	rukkolt	-	-
+
+%a kisebbségek aránya nem éri el a 20 százalékot ,
+el	éri	-	-
+el	éri	-	-
+el	éri	-	-
+el	éri	-	-
+
+%hátára Újra ki szállani mér (
+-	mér	-	szállani
+ki	mér	-	-
+-	mér	ki	szállani
+-	mér	ki	szállani
+
+%Bosznia-Hercegovina vezetői nem felejthetik el ,
+el	felejthetik	-	-
+el	felejthetik	-	-
+el	felejthetik	-	-
+el	felejthetik	-	-
+
+%hogy ezt az újragondolást Jób identitásának oldaláról közelítsem meg ,
+meg	közelítsem	-	-
+meg	közelítsem	-	-
+meg	közelítsem	-	-
+meg	közelítsem	-	-
+
+%hogy tiltsák be azon Samsung termékek forgalmazását ,
+be	tiltsák	-	-
+be	tiltsák	-	-
+be	tiltsák	-	-
+be	tiltsák	-	-
+
+%emlékeztetnünk kell azonban arra ,
+-	kell	-	emlékeztetnünk
+-	kell	-	emlékeztetnünk
+-	kell	-	emlékeztetnünk
+-	kell	-	emlékeztetnünk
+
+%Grímur Kambanról a nevén kívül semmit nem lehet tudni .
+-	lehet	-	tudni
+-	lehet	-	tudni
+-	lehet	-	tudni
+-	lehet	-	tudni
+
+%hogy ezeket a könyveket még nem is fordították le magyar nyelvre .
+le	fordították	-	-
+le	fordították	-	-
+le	fordították	-	-
+le	fordították	-	-
+
+%a pesti Gundel étteremben meg kellett enniük egy különlegesen csípős levest ,
+-	kellett	meg	enniük
+-	kellett	meg	enniük
+-	kellett	meg	enniük
+-	kellett	meg	enniük
+
+%és az emberek szeretnék tudni ,
+-	szeretnék	-	tudni
+-	szeretnék	-	tudni
+-	szeretnék	-	tudni
+-	szeretnék	-	tudni
+
+%Anyum utasított rá .
+-	utasított	-	-
+-	utasított	-	-
+rá	utasított	-	-
+rá	utasított	-	-
+
+%Sokáig nincs idő rágódni a meccsen ,
+-	nincs	-	rágódni
+-	nincs	-	rágódni
+-	nincs	-	rágódni
+-	nincs	-	rágódni
+
+%Ennek feltételeit igyekszünk megteremteni .
+-	igyekszünk	meg	teremteni
+-	igyekszünk	meg	teremteni
+-	igyekszünk	-	megteremteni
+-	igyekszünk	-	megteremteni
+
+%hogy be kell zárni
+-	kell	be	zárni
+-	kell	be	zárni
+-	kell	be	zárni
+-	kell	be	zárni
+
+%A Magyar Művelődési Központot ugyanis a konferenciaturizmus számára alakítják át ,
+át	alakítják	-	-
+át	alakítják	-	-
+-	alakítják	-	-
+át	alakítják	-	-
+
+%Mondjátok meg neki ,
+meg	mondjátok	-	-
+meg	mondjátok	-	-
+meg	mondjátok	-	-
+meg	mondjátok	-	-
+
+%hogy a kritikus hangvételű adót mindenáron el akarja hallgattatni a Szalai Annamária által vezetett testület ,
+-	akarja	el	hallgattatni
+-	akarja	el	hallgattatni
+-	akarja	el	hallgattatni
+-	akarja	el	hallgattatni
+
+%hogy a Camaróba meglepően sok dolgot be lehet gyömöszölni .
+-	lehet	be	gyömöszölni
+-	lehet	be	gyömöszölni
+-	lehet	be	gyömöszölni
+-	lehet	be	gyömöszölni
+
+%és én a Sasadi útnál szállok fel ,
+fel	szállok	-	-
+fel	szállok	-	-
+fel	szállok	-	-
+fel	szállok	-	-
+
+%de az új fegyvereket ki kell próbálni .
+-	kell	ki	próbálni
+-	kell	ki	próbálni
+-	kell	-	próbálni
+-	kell	ki	próbálni
+
+%s még aznap Párizsba vissza is tértek .
+vissza	tértek	-	-
+vissza	tértek	-	-
+-	tértek	-	-
+vissza	tértek	-	-
+
+%hogy hogy lehet ilyen jó igazi fánkot csinálni .
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+
+%másrészről viszont a törvényt is módosítani kellene .
+-	kellene	-	módosítani
+-	kellene	-	módosítani
+-	kellene	-	módosítani
+-	kellene	viszont	módosítani
+
+%A bundaügyben eddig összesen 18 személyt hallgatott ki a főügyészség gyanúsítottként ,
+ki	hallgatott	-	-
+ki	hallgatott	-	-
+ki	hallgatott	-	-
+ki	hallgatott	-	-
+
+%hamarosan új nagylemezt ad ki a legendás rockbanda .
+ki	ad	-	-
+ki	ad	-	-
+ki	ad	-	-
+ki	ad	-	-
+
+%tesztekkel nem mutathatók ki és stressz is kiváltja ugyanazt az asztmatikus jellegű rohamot .
+ki	váltja	-	-
+ki	váltja	-	-
+ki	kiváltja	-	-
+-	kiváltja	-	-
+
+%Ez vezetett oda ,
+oda	vezetett	-	-
+oda	vezetett	-	-
+-	vezetett	-	-
+oda	vezetett	-	-
+
+%a 100. élvonalbeli bajnoki mérkőzését játszó Nikolics Nemanja lőtte ki a jobb alsó sarkot .
+ki	lőtte	-	-
+ki	lőtte	-	-
+ki	lőtte	-	-
+ki	lőtte	-	-
+
+%Gondoljunk csak bele ,
+bele	gondoljunk	-	-
+bele	gondoljunk	-	-
+bele	gondoljunk	-	-
+bele	gondoljunk	-	-
+
+%a Babapiskóta termék alakjára vonatkozó követelményektől el lehet -e térni ?
+-	lehet	el	térni
+-	lehet	el	térni
+-	lehet	el	térni
+-	lehet	el	térni
+
+%hanem haladéktalanul kezdjük el mások gyógyítását .
+el	kezdjük	-	-
+el	kezdjük	-	-
+el	kezdjük	-	-
+-	kezdjük	-	-
+
+%első dolga lesz tájékoztatni e csodálatos felfedezésről ...
+-	lesz	-	tájékoztatni
+-	lesz	-	tájékoztatni
+-	lesz	-	tájékoztatni
+-	lesz	-	tájékoztatni
+
+%de nem akar erre határidőt megszabni ,
+-	akar	meg	szabni
+-	akar	meg	szabni
+-	akar	-	megszabni
+-	akar	-	megszabni
+
+%A megfigyelések arra engednek következtetni ,
+-	engednek	-	következtetni
+-	engednek	-	következtetni
+-	engednek	-	következtetni
+-	engednek	-	következtetni
+
+%míg a történetre és szingli kampányra gerjedő tábor a Bad Company második részével ütheti el az időt .
+el	ütheti	-	-
+el	ütheti	-	-
+el	ütheti	-	-
+el	ütheti	-	-
+
+%nem megy túl azon ,
+túl	megy	-	-
+túl	megy	-	-
+-	megy	-	-
+túl	megy	-	-
+
+%hogy az energiáit hasznosabban kösse le ,
+le	kösse	-	-
+le	kösse	-	-
+le	kösse	-	-
+le	kösse	-	-
+
+%Wilder már nyolc éves korában érdeklődni kezdett a színészkedés után ,
+-	kezdett	-	érdeklődni
+-	kezdett	-	érdeklődni
+-	kezdett	-	érdeklődni
+-	kezdett	-	érdeklődni
+
+%már 6000 képkockából épült fel .
+fel	épült	-	-
+fel	épült	-	-
+fel	épült	-	-
+fel	épült	-	-
+
+%Ez is erősíteni fogja hosszútávú jelenlétét és az a 25 fix +
+-	fogja	-	erősíteni
+-	fogja	-	erősíteni
+-	fogja	-	erősíteni
+-	fogja	-	erősíteni
+
+%továbbá egy borítékot vehetnek át .
+át	vehetnek	-	-
+át	vehetnek	-	-
+-	vehetnek	-	-
+át	vehetnek	-	-
+
+%Az MSZP Kaposváron emlékezett meg a forradalom és szabadságharc évfordulójáról
+meg	emlékezett	-	-
+meg	emlékezett	-	-
+meg	emlékezett	-	-
+meg	emlékezett	-	-
+
+%hogy működjenek együtt a költségvetés elfogadása érdekében .
+együtt	működjenek	-	-
+együtt	működjenek	-	-
+-	működjenek	-	-
+együtt	működjenek	-	-
+
+%hogy haza érek !
+haza	érek	-	-
+-	érek	-	-
+-	érek	-	-
+haza	érek	-	-
+
+%Mosolyogva nyugodott bele ,
+bele	nyugodott	-	-
+bele	nyugodott	-	-
+bele	nyugodott	-	-
+bele	nyugodott	-	-
+
+%Mivel a kondenzcsíkok párát vonnak el a levegőből ,
+el	vonnak	-	-
+el	vonnak	-	-
+el	vonnak	-	-
+el	vonnak	-	-
+
+%Texas államban egy 53 éves férfinak adtak be méreginjekciót .
+be	adtak	-	-
+be	adtak	-	-
+be	adtak	-	-
+be	adtak	-	-
+
+%hogy az értelmiségi osztály ne fogalmazza meg önmagát .
+meg	fogalmazza	-	-
+meg	fogalmazza	-	-
+meg	fogalmazza	-	-
+meg	fogalmazza	-	-
+
+%illetve hétfő hajnalban állhat helyre a menetrend szerinti közlekedés -
+helyre	állhat	-	-
+helyre	állhat	-	-
+-	állhat	-	-
+helyre	állhat	-	-
+
+%a regény az író életében nem jelent meg .
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+
+%szeretett ex cathedra kijelenteni ítéleteket .
+-	szeretett	ki	jelenteni
+-	szeretett	ki	jelenteni
+-	szeretett	-	kijelenteni
+-	szeretett	-	kijelenteni
+
+%hogy értesülései szerint az elnököt csak a családtagjai látogatták meg a kórházban ,
+meg	látogatták	-	-
+meg	látogatták	-	-
+meg	látogatták	-	-
+meg	látogatták	-	-
+
+%Nyártól egyébként egymás után zárhatnak be az ilyen intézmények ,
+be	zárhatnak	-	-
+be	zárhatnak	-	-
+be	zárhatnak	-	-
+be	zárhatnak	-	-
+
+%hogy Washington és London azért hátrált meg az intelligens szankciók tervével ,
+meg	hátrált	-	-
+meg	hátrált	-	-
+meg	hátrált	-	-
+meg	hátrált	-	-
+
+%de nem rendelünk mellé forrásokat a végrehajthatóság érdekében ,
+mellé	rendelünk	-	-
+mellé	rendelünk	-	-
+-	rendelünk	-	-
+mellé	rendelünk	-	-
+
+%Oxidatív stresszhelyzet valójában akkor áll elő ,
+elő	áll	-	-
+elő	áll	-	-
+elő	áll	-	-
+elő	áll	-	-
+
+%hogy az akció újabb szegregációs területeket hozhat létre .
+létre	hozhat	-	-
+létre	hozhat	-	-
+létre	hozhat	-	-
+létre	hozhat	-	-
+
+%Nem lehet megjósolni ,
+-	lehet	meg	jósolni
+-	lehet	meg	jósolni
+-	lehet	-	megjósolni
+-	lehet	-	megjósolni
+
+%amíg meg nem kapják a megszüntetésről szóló jogerős bírósági határozatot .
+meg	kapják	-	-
+meg	kapják	-	-
+meg	kapják	-	-
+meg	kapják	-	-
+
+%szoktuk nevezni különféle nevekkel ,
+-	szoktuk	-	nevezni
+-	szoktuk	-	nevezni
+-	szoktuk	-	nevezni
+-	szoktuk	-	nevezni
+
+%Isten a próbákkal meg akar tanítani valamire .
+-	akar	meg	tanítani
+-	akar	meg	tanítani
+-	akar	meg	tanítani
+-	akar	meg	tanítani
+
+%hogy mérget lélegzem be ,
+be	lélegzem	-	-
+-	lélegzem	-	-
+be	lélegzem	-	-
+be	lélegzem	-	-
+
+%így Jimmy Crespo mellé kellett találniuk még egy gitárost .
+-	kellett	-	találniuk
+-	kellett	mellé	találniuk
+-	kellett	-	találniuk
+-	kellett	mellé	találniuk
+
+%Ez a cikk a rendszeresen megrendezésre kerülő pécsi fesztiválokat gyűjti össze .
+össze	gyűjti	-	-
+össze	gyűjti	-	-
+össze	gyűjti	-	-
+össze	gyűjti	-	-
+
+%elnöki tanácsadó neve a kabuli Hotel Intercontinental üzemeltetéséhez kapcsolódó korrupciós botrányban bukkant fel .
+fel	bukkant	-	-
+fel	bukkant	-	-
+fel	bukkant	-	-
+fel	bukkant	-	-
+
+%de végrehajtani nem lesz könnyű ,
+-	lesz	végre	hajtani
+-	lesz	végre	hajtani
+-	lesz	-	végrehajtani
+-	lesz	-	végrehajtani
+
+%A fentiek miatt a djuice tarifacsomagodhoz tartozó 3 GB-os szolgáltatással nem tudod elérni .
+-	tudod	el	érni
+-	tudod	el	érni
+-	tudod	-	elérni
+-	tudod	-	elérni
+
+%akik ugyanolyan megdöbbenéssel nem tudtak ma belépni fiókjukba ,
+-	tudtak	be	lépni
+-	tudtak	belé	pni
+-	tudtak	-	belépni
+-	tudtak	-	belépni
+
+%a közszolgálati televízióban és rádióban semmi olyat sem lehet hallani ,
+-	lehet	-	hallani
+-	lehet	-	hallani
+-	lehet	-	hallani
+-	lehet	-	hallani
+
+%Ancelotti különösen utóbbit emelte ki a
+ki	emelte	-	-
+ki	emelte	-	-
+ki	emelte	-	-
+ki	emelte	-	-
+
+%azt maradéktalanul csináld végig önmagadért ,
+végig	csináld	-	-
+végig	csináld	-	-
+-	csináld	-	-
+végig	csináld	-	-
+
+%42 tartózkodás mellett nem fogadta el .
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+
+%amit aztán nem kaptunk meg .
+meg	kaptunk	-	-
+meg	kaptunk	-	-
+meg	kaptunk	-	-
+meg	kaptunk	-	-
+
+%A beruházások előkészítése már el is kezdődött ,
+el	kezdődött	-	-
+el	kezdődött	-	-
+el	kezdődött	-	-
+el	kezdődött	-	-
+
+%szocializmust akarunk építeni [
+-	akarunk	-	építeni
+-	akarunk	-	építeni
+-	akarunk	-	építeni
+-	akarunk	-	építeni
+
+%hogy azt a rendezvény után ne kelljen elbontani -
+-	kelljen	el	bontani
+-	kelljen	el	bontani
+-	kelljen	-	elbontani
+-	kelljen	-	elbontani
+
+%Nem gondolsz rá ,
+rá	gondolsz	-	-
+rá	gondolsz	-	-
+rá	gondolsz	-	-
+rá	gondolsz	-	-
+
+%Állításainkat statisztikai adatokkal támasztottuk alá .
+alá	támasztottuk	-	-
+alá	támasztottuk	-	-
+alá	támasztottuk	-	-
+alá	támasztottuk	-	-
+
+%terepen meg adja magát ,
+meg	adja	-	-
+-	adja	-	-
+-	adja	-	-
+meg	adja	-	-
+
+%Isten igéretei Krisztusban teljesülnek be !
+be	teljesülnek	-	-
+be	teljesülnek	-	-
+-	teljesülnek	-	-
+be	teljesülnek	-	-
+
+%hogy netalán rosszul sülne el ,
+el	sülne	-	-
+el	sülne	-	-
+el	sülne	-	-
+el	sülne	-	-
+
+%úgy a homoszexuálisnak is el kell szakadni szexuális orientációjától .
+-	kell	el	szakadni
+-	kell	el	szakadni
+-	kell	el	szakadni
+-	kell	el	szakadni
+
+%ez sem fog összejönni .
+-	fog	össze	jönni
+-	fog	össze	jönni
+-	fog	-	összejönni
+-	fog	-	összejönni
+
+%Február végén vagy márciusban be kell rakni a holmit a Renault-ba ,
+-	kell	be	rakni
+-	kell	be	rakni
+-	kell	be	rakni
+-	kell	be	rakni
+
+%mert néhány jellemzőjén még finomítani kell .
+-	kell	-	finomítani
+-	kell	-	finomítani
+-	kell	-	finomítani
+-	kell	-	finomítani
+
+%most egy másik luxushajós utazást szervező cégnek ajánlották föl ,
+föl	ajánlották	-	-
+föl	ajánlották	-	-
+föl	ajánlották	-	-
+föl	ajánlották	-	-
+
+%Nézzétek meg ,
+meg	nézzétek	-	-
+meg	nézzétek	-	-
+meg	nézzétek	-	-
+meg	nézzétek	-	-
+
+%addig kész az új unit. Bár még nem jött meg a password-om ...
+meg	jött	-	-
+meg	jött	-	-
+meg	jött	-	-
+meg	jött	-	-
+
+%De ennek a közeledésnek a pénzügyi következményei meg sem közelítik azt a mértéket ,
+meg	közelítik	-	-
+meg	közelítik	-	-
+meg	közelítik	-	-
+meg	közelítik	-	-
+
+%A szállítmányozók hétfőn már újra az utakon lesznek
+-	lesznek	-	-
+-	lesznek	-	-
+-	lesznek	-	-
+újra	lesznek	-	-
+
+%mára virradó reggelre pedig Borszörcsökön 4 házat fosztottak ki
+ki	fosztottak	-	-
+ki	fosztottak	-	-
+ki	fosztottak	-	-
+ki	fosztottak	-	-
+
+%az egykori Jugoszlávia nemzetiségeihez tartozó író alakított meg .
+meg	alakított	-	-
+meg	alakított	-	-
+meg	alakított	-	-
+meg	alakított	-	-
+
+%Az önálló fejlődés útja 1945-ben nyílt meg :
+meg	nyílt	-	-
+meg	nyílt	-	-
+meg	nyílt	-	-
+meg	nyílt	-	-
+
+%hoztam fel példának ,
+fel	hoztam	-	-
+fel	hoztam	-	-
+fel	hoztam	-	-
+fel	hoztam	-	-
+
+%hogy nem elég egyedül az oktatásban keresni a kiutat ,
+-	-	-	-
+el	ég	-	-
+-	-	-	keresni
+-	elég	-	keresni
+
+%minősítést érdemelt ki a zenekar a Siklósi Fúvószenei Fesztiválon .
+ki	érdemelt	-	-
+ki	érdemelt	-	-
+ki	érdemelt	-	-
+ki	érdemelt	-	-
+
+%hogy Ginny minden bizonnyal tudna mesélni arról ,
+-	tudna	-	mesélni
+-	tudna	-	mesélni
+-	tudna	-	mesélni
+-	tudna	-	mesélni
+
+%a Magyar Demokrata fórum képviselőcsoportja nevében kíván -e valaki felszólalni .
+-	kíván	fel	szólalni
+-	kíván	fel	szólalni
+-	kíván	-	felszólalni
+-	kíván	-	felszólalni
+
+%és minden évben sikerül egy-egy rendező-ikont elcsábítani Telluride-ba ,
+-	sikerül	el	csábítani
+-	sikerül	el	csábítani
+-	sikerül	-	elcsábítani
+-	sikerül	-	elcsábítani
+
+%hogy ők készítsék el a klipet a dalokhoz .
+el	készítsék	-	-
+el	készítsék	-	-
+el	készítsék	-	-
+el	készítsék	-	-
+
+%Mivel nem lehetett metrópótló buszokat indítani ,
+-	lehetett	-	indítani
+-	lehetett	-	indítani
+-	lehetett	-	indítani
+-	lehetett	-	indítani
+
+%nagyon sok kicsi kiadó tönkre ment ,
+tönkre	ment	-	-
+-	ment	-	-
+-	ment	-	-
+tönkre	ment	-	-
+
+%amiben a már taglalt helyszínen kell rendet tennünk ,
+-	kell	-	tennünk
+-	kell	-	tennünk
+-	kell	-	tennünk
+-	kell	-	tennünk
+
+%Két hétig áll el .
+el	áll	-	-
+el	áll	-	-
+el	áll	-	-
+el	áll	-	-
+
+%Tehát akkor nem hozta meg a hozzáfűzött reményeket az a jogszabály-módosítás ,
+meg	hozta	-	-
+meg	hozta	-	-
+-	hozzáfűzött	-	-
+meg	hozta	-	-
+
+%majd 2005-től a King's College London Orvostudományi és Fogászati Iskolája néven működött tovább .
+tovább	működött	-	-
+tovább	működött	-	-
+-	működött	-	-
+tovább	működött	-	-
+
+%Csak pozitívan tudok eddig nyilatkozni !!!
+-	tudok	-	nyilatkozni
+-	tudok	-	nyilatkozni
+-	tudok	-	nyilatkozni
+-	tudok	-	nyilatkozni
+
+%és nem különösebben civilizált külseje révén versenyzőtársaitól ki is érdemelte az
+ki	érdemelte	-	-
+ki	érdemelte	-	-
+ki	érdemelte	-	-
+ki	érdemelte	-	-
+
+%a mikor a felbugyogó források által táplált tó kúttá alakíttatott át .
+át	alakíttatott	-	-
+át	alakíttatott	-	-
+-	alakíttatott	-	-
+át	alakíttatott	-	-
+
+%de nem tudom még ép ésszel felfogni ,
+-	tudom	fel	fogni
+-	tudom	fel	fogni
+-	tudom	-	felfogni
+-	tudom	-	felfogni
+
+%A fennmaradó 500 ft-ból mire vontak le 306 ft-ot ?
+le	vontak	-	-
+le	vontak	-	-
+le	vontak	-	-
+le	vontak	-	-
+
+%mint javítottak túl gyakori módosításai az elmúlt húsz évben ,
+-	javítottak	-	-
+-	javítottak	-	-
+-	javítottak	-	-
+túl	javítottak	-	-
+
+%privát facebook üzenetben küldd el ügyfélszámot ,
+el	küldd	-	-
+el	küldd	-	-
+el	küldd	-	-
+el	küldd	-	-
+
+%Egy ideig a brünni főparancsnoksághoz osztották be ,
+be	osztották	-	-
+be	osztották	-	-
+be	osztották	-	-
+be	osztották	-	-
+
+%s találkozás után mégis úgy válok el tőlük ,
+el	válok	-	-
+el	válok	-	-
+el	válok	-	-
+el	válok	-	-
+
+%ahol felsőfokú tanulmányokat szándékozik kezdeni vagy folytatni ,
+-	szándékozik	-	kezdeni
+-	szándékozik	-	kezdeni
+-	szándékozik	-	kezdeni
+-	szándékozik	-	kezdeni	-	folytatni
+
+%ha nem halna el a topic iránti lelkesedés sem ,
+el	halna	-	-
+el	halna	-	-
+el	halna	-	-
+el	halna	-	-
+
+%találmányuk a felesleges villanyáram tárolását oldja meg egy kémiai reakció alkalmazásával .
+meg	oldja	-	-
+meg	oldja	-	-
+meg	oldja	-	-
+meg	oldja	-	-
+
+%Igyekezett minél visszafogottabban megnyilvánulni az udvarban ,
+-	igyekezett	meg	nyilvánulni
+-	igyekezett	meg	nyilvánulni
+-	igyekezett	-	megnyilvánulni
+-	igyekezett	-	megnyilvánulni
+
+%Ugyanakkor azt is a saját bőrünkön tapasztaljuk meg ,
+meg	tapasztaljuk	-	-
+meg	tapasztaljuk	-	-
+meg	tapasztaljuk	-	-
+meg	tapasztaljuk	-	-
+
+%ki vezeti félre a közvéleményt .
+félre	vezeti	-	-
+félre	vezeti	-	-
+félre	vezeti	-	-
+félre	vezeti	-	-
+
+%Nagy Feró Trabanttal gördült be a színpadra .
+be	gördült	-	-
+be	gördült	-	-
+be	gördült	-	-
+be	gördült	-	-
+
+%szenvedélyek kezdtek ébredezni bennem ,
+-	kezdtek	-	ébredezni
+-	kezdtek	-	ébredezni
+-	kezdtek	-	ébredezni
+-	kezdtek	-	ébredezni
+
+%Éljük át a jelent teljes szívvel ,
+át	éljük	-	-
+át	éljük	-	-
+-	éljük	-	-
+át	éljük	-	-
+
+%akik nem kívánnak megválni részesedésüktől .
+-	kívánnak	meg	válni
+-	kívánnak	meg	válni
+-	kívánnak	-	megválni
+-	kívánnak	-	megválni
+
+%itt ezért kell lassítani .
+-	kell	-	lassítani
+-	kell	-	lassítani
+-	kell	-	lassítani
+-	kell	-	lassítani
+
+%akik a tudományos pályára készítik elő gyermekeiket ;
+elő	készítik	-	-
+elő	készítik	-	-
+elő	készítik	-	-
+elő	készítik	-	-
+
+%Ennek érdekében alkalmazni kell a 4. cikk (2) és (4) bekezdését .
+-	kell	-	alkalmazni
+-	kell	-	alkalmazni
+-	kell	-	alkalmazni
+-	kell	-	alkalmazni
+
+%mennél előbb végezzük el a szabadrúgást ,
+el	végezzük	-	-
+el	végezzük	-	-
+el	végezzük	-	-
+el	végezzük	-	-
+
+%amikor az euróválság miatt a legtöbb országban nem tudják tartani a nyugdíjak értékét ,
+-	tudják	-	tartani
+-	tudják	-	tartani
+-	tudják	-	tartani
+-	tudják	-	tartani
+
+%hogy a programokat milyen határidővel tervezik megvalósítani ,
+-	tervezik	meg	valósítani
+-	tervezik	meg	valósítani
+-	tervezik	-	megvalósítani
+-	tervezik	-	megvalósítani
+
+%Képzelje el ,
+el	képzelje	-	-
+el	képzelje	-	-
+el	képzelje	-	-
+el	képzelje	-	-
+
+%amely a JBIG2 kezelés kapcsán merült fel ,
+fel	merült	-	-
+fel	merült	-	-
+fel	merült	-	-
+fel	merült	-	-
+
+%hogy abban az időben lóháton hétszer Magyarországra eljutni nem volt kis teljesítmény .
+-	volt	el	jutni
+-	volt	el	jutni
+-	volt	-	eljutni
+-	volt	-	eljutni
+
+%lényegében a lakossági fogyasztók maradhatnak meg a hatóság által ellenőrzött áron szolgáltató egyetemes szolgáltatóknál ,
+meg	maradhatnak	-	-
+meg	maradhatnak	-	-
+meg	maradhatnak	-	-
+meg	maradhatnak	-	-
+
+%Cillei Borbála úrnőnek adta át ,
+át	adta	-	-
+át	adta	-	-
+át	adta	-	-
+át	adta	-	-
+
+%A Földön ki lehet ugyan bújni a törvény felelőssége alól a hatóságok megtévesztése útján ,
+-	lehet	ki	bújni
+-	lehet	ki	bújni
+-	lehet	-	bújni
+-	lehet	ki	bújni
+
+%akikre húszezres büntetéseket szabtak ki a csengő hiánya ,
+ki	szabtak	-	-
+ki	szabtak	-	-
+ki	szabtak	-	-
+ki	szabtak	-	-
+
+%amelyeknek legtöbbjét Nagy Szulejman ideje alatt alakították ki .
+ki	alakították	-	-
+ki	alakították	-	-
+ki	alakították	-	-
+ki	alakították	-	-
+
+%azonosítást követően tudunk információt adni .
+-	tudunk	-	adni
+-	tudunk	-	adni
+-	tudunk	-	adni
+-	tudunk	-	adni
+
+%hogy nagyobbat lehet lépni ,
+-	lehet	-	lépni
+-	lehet	-	lépni
+-	lehet	-	lépni
+-	lehet	-	lépni
+
+%tekintheti meg a közönség .
+meg	tekintheti	-	-
+meg	tekintheti	-	-
+meg	tekintheti	-	-
+meg	tekintheti	-	-
+
+%Nem tudtuk teljes bizonyossággal eldönteni ,
+-	tudtuk	el	dönteni
+-	tudtuk	el	dönteni
+-	tudtuk	-	eldönteni
+-	tudtuk	-	eldönteni
+
+%Szerintem meg a közösségben is meg kell húzni egy határt .
+-	kell	meg	húzni
+-	kell	meg	húzni
+-	kell	meg	húzni
+-	kell	meg	húzni
+
+%rossz időben menjen oda .
+oda	menjen	-	-
+oda	menjen	-	-
+oda	menjen	-	-
+oda	menjen	-	-
+
+%aki továbbra sem tudta kizárni a szer hatását .
+-	tudta	ki	zárni
+-	tudta	ki	zárni
+-	tudta	-	kizárni
+-	tudta	-	kizárni
+
+%A moszkvai Bioorganikus Kémiai Intézet kutatói most arról számoltak be ,
+be	számoltak	-	-
+be	számoltak	-	-
+be	számoltak	-	-
+be	számoltak	-	-
+
+%hiszen egy teljes makrociklust megfelelő létesítmény híján nem tudunk rövidpályán végiggyakorolni ,
+-	tudunk	végig	gyakorolni
+-	tudunk	végig	gyakorolni
+-	tudunk	-	végiggyakorolni
+-	tudunk	-	végiggyakorolni
+
+%amikor csak egy ősembert tanítottak meg mindenre ,
+meg	tanítottak	-	-
+meg	tanítottak	-	-
+meg	tanítottak	-	-
+meg	tanítottak	-	-
+
+%hogy itt már szólva lett előre ,
+-	lett	-	-
+-	lett	-	-
+-	lett	-	-
+előre	lett	-	-
+
+%Ma sem léphetett oda egy lányhoz sem ,
+oda	léphetett	-	-
+oda	léphetett	-	-
+oda	léphetett	-	-
+oda	léphetett	-	-
+
+%és idegenítenek el a szövegtől ,
+el	idegenítenek	-	-
+el	idegenítenek	-	-
+el	idegenítenek	-	-
+el	idegenítenek	-	-
+
+%tette hozzá a szóvivő .
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+
+%udvariatlan fogadtatás nem éppen PR-t erősítő szavakat csalt ki a főtitkárból ,
+ki	csalt	-	-
+ki	csalt	-	-
+ki	csalt	-	-
+ki	csalt	-	-
+
+%ennek a harsány becsalogatónak adatott meg ,
+meg	adatott	-	-
+meg	adatott	-	-
+meg	adatott	-	-
+meg	adatott	-	-
+
+%Amikor a szakszervezeti tagokat vitték el ,
+el	vitték	-	-
+el	vitték	-	-
+el	vitték	-	-
+el	vitték	-	-
+
+%hogy ettől esetleg térjünk el ,
+el	térjünk	-	-
+el	térjünk	-	-
+el	térjünk	-	-
+el	térjünk	-	-
+
+%le akartam tiltani az átirányítást ,
+-	akartam	le	tiltani
+-	akartam	le	tiltani
+-	akartam	le	tiltani
+-	akartam	le	tiltani
+
+%hamis antivírus-programot telepíti fel ,
+fel	telepíti	-	-
+fel	telepíti	-	-
+fel	telepíti	-	-
+fel	telepíti	-	-
+
+%hogy vajon mit fog szólni a srác a váratlan betoppanásához :) ,
+-	fog	-	szólni
+-	fog	-	szólni
+-	fog	-	szólni
+-	fog	-	szólni
+
+%A leértékelődés viszont ösztönzi a kivitelt ,
+-	ösztönzi	-	-
+-	ösztönzi	-	-
+-	ösztönzi	-	-
+viszont	ösztönzi	-	-
+
+%Azt sorsolással állapítják meg ,
+meg	állapítják	-	-
+meg	állapítják	-	-
+meg	állapítják	-	-
+meg	állapítják	-	-
+
+%Te valójában nem tudsz segíteni másokon ,
+-	tudsz	-	segíteni
+-	tudsz	-	segíteni
+-	tudsz	-	segíteni
+-	tudsz	-	segíteni
+
+%meg ha gondolod meg is
+-	gondolod	-	-
+meg	gondolod	-	-
+meg	gondolod	-	-
+meg	gondolod	-	-
+
+%Feletted fog állni ,
+-	fog	-	állni
+-	fog	-	állni
+-	fog	-	állni
+-	fog	-	állni
+
+%mint amennyit a jelenlegi állapotában el tudna látni nagyobb erőfeszítés nélkül .
+-	tudna	el	látni
+-	tudna	el	látni
+-	tudna	el	látni
+-	tudna	el	látni
+
+%Tudnék keményebben is fogalmazni ,
+-	tudnék	-	fogalmazni
+-	tudnék	-	fogalmazni
+-	tudnék	-	fogalmazni
+-	tudnék	-	fogalmazni
+
+%mert szerinte csak azért vetették be a biztonsági autót ,
+be	vetették	-	-
+be	vetették	-	-
+be	vetették	-	-
+be	vetették	-	-
+
+%Az említett 3 nevet Te hoztad fel nem mi .
+fel	hoztad	-	-
+fel	hoztad	-	-
+fel	hoztad	-	-
+fel	hoztad	-	-
+
+%Másnap a Hungarocamion szerelői mentek kiásni az autómat .
+-	mentek	ki	ásni
+-	mentek	ki	ásni
+-	mentek	-	kiásni
+-	mentek	-	kiásni
+
+%amelynek fénygyűjtő képessége egy 3,6 méteres távcsőének felel meg .
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+
+%akkor hadd említsem meg hogy MATAV SUX .
+meg	említsem	-	-
+meg	említsem	-	-
+meg	említsem	-	-
+meg	említsem	-	-
+
+%Csak 1999-ben tértek vissza ,
+vissza	tértek	-	-
+vissza	tértek	-	-
+vissza	tértek	-	-
+vissza	tértek	-	-
+
+%együttes akaratából jött létre .
+létre	jött	-	-
+létre	jött	-	-
+létre	jött	-	-
+létre	jött	-	-
+
+%hogy ezt egyik állam se fogja felvállalni .
+-	fogja	fel	vállalni
+-	fogja	fel	vállalni
+-	fogja	-	felvállalni
+-	fogja	-	felvállalni
+
+%ezt így szoktuk mondani ,
+-	szoktuk	-	mondani
+-	szoktuk	-	mondani
+-	szoktuk	-	mondani
+-	szoktuk	-	mondani
+
+%és a meghallgatások alkalmával került be végül is az a hatvan fiatal ,
+be	került	-	-
+be	került	-	-
+be	került	-	-
+be	került	-	-
+
+%a saját beszállítóikat kellene kifizetniük abból ,
+-	kellene	ki	fizetniük
+-	kellene	ki	fizetniük
+-	kellene	-	kifizetniük
+-	kellene	-	kifizetniük
+
+%hogy ne maradjon le semmiről !
+le	maradjon	-	-
+le	maradjon	-	-
+le	maradjon	-	-
+le	maradjon	-	-
+
+%Egyelőre csak az alábbi oldalt tudjuk ajánlani ,
+-	tudjuk	-	ajánlani
+-	tudjuk	-	ajánlani
+-	tudjuk	-	ajánlani
+-	tudjuk	-	ajánlani
+
+%ha a képviselők az adott évre vonatkozó központi költségvetést 31-ig nem fogadják el .
+el	fogadják	-	-
+el	fogadják	-	-
+el	fogadják	-	-
+el	fogadják	-	-
+
+%zivatarra kell számítani .
+-	kell	-	számítani
+-	kell	-	számítani
+-	kell	-	számítani
+-	kell	-	számítani
+
+%ki lesz a pénzvilág egyik legfőbb vezetője
+-	lesz	-	-
+-	lesz	-	-
+-	lesz	-	-
+ki	lesz	-	-
+
+%Vincze Bálint és Kalotás Zsolt figyeltek fel a hatalmas fára egy lápos területen .
+fel	figyeltek	-	-
+fel	figyeltek	-	-
+fel	figyeltek	-	-
+fel	figyeltek	-	-
+
+%De aki nem fog megfelelni ,
+-	fog	meg	felelni
+-	fog	meg	felelni
+-	fog	-	megfelelni
+-	fog	-	megfelelni
+
+%amelyek mindenféle közösségi médiaoldalakat működtető társaságokra tették rá a kezüket ,
+rá	tették	-	-
+rá	tették	-	-
+rá	tették	-	-
+rá	tették	-	-
+
+%Engedd meg a helyesbítést :
+meg	engedd	-	-
+meg	engedd	-	-
+meg	engedd	-	-
+meg	engedd	-	-
+
+%A hadsereg nem tart fenn olyan intézményt ,
+fenn	tart	-	-
+fenn	tart	-	-
+fenn	tart	-	-
+fenn	tart	-	-
+
+%ez át is jön az írásaidon .
+át	jön	-	-
+át	jön	-	-
+-	jön	-	-
+át	jön	-	-
+
+%nem sokára már a képernyőre sem férsz fel .
+fel	férsz	-	-
+fel	férsz	-	-
+-	férsz	-	-
+fel	férsz	-	-
+
+%hogy az új lakás jelentős részét kis belső kert teszi most ki (
+ki	teszi	-	-
+ki	teszi	-	-
+ki	teszi	-	-
+ki	teszi	-	-
+
+%akkor miről fogsz írni ?
+-	fogsz	-	írni
+-	fogsz	-	írni
+-	fogsz	-	írni
+-	fogsz	-	írni
+
+%gáz- távközlési és elektromos vezetékeket kellett kiváltani ,
+-	kellett	ki	váltani
+-	kellett	ki	váltani
+-	kellett	-	kiváltani
+-	kellett	-	kiváltani
+
+%Szeretném hangsúlyozni ,
+-	szeretném	-	hangsúlyozni
+-	szeretném	-	hangsúlyozni
+-	szeretném	-	hangsúlyozni
+-	szeretném	-	hangsúlyozni
+
+%és akkor nyilván hamarabb fognak az ilyen figyelmeztetések elérni hozzánk .
+-	fognak	el	érni
+-	fognak	el	érni
+-	fognak	-	elérni
+-	fognak	-	elérni
+
+%szögezzük neki a kérdést ,
+neki	szögezzük	-	-
+neki	szögezzük	-	-
+neki	szögezzük	-	-
+neki	szögezzük	-	-
+
+%és segítségükkel szedik össze növényi hajtásokból ,
+össze	szedik	-	-
+össze	szedik	-	-
+össze	szedik	-	-
+össze	szedik	-	-
+
+%és mégsem tűnik fel ez a legtöbb embernek .
+fel	tűnik	-	-
+fel	tűnik	-	-
+fel	tűnik	-	-
+fel	tűnik	-	-
+
+%azok sem feleltek meg egyelőre a követelményeknek .
+meg	feleltek	-	-
+meg	feleltek	-	-
+meg	feleltek	-	-
+meg	feleltek	-	-
+
+%Ő csak a villamost engedte át ,
+át	engedte	-	-
+át	engedte	-	-
+-	engedte	-	-
+át	engedte	-	-
+
+%így egyszerre húsz kerékpárosnak tudnak szállást adni a tervek szerint május végén megnyíló Fűzfő Motelban .
+-	tudnak	-	adni
+-	tudnak	-	adni
+-	tudnak	-	adni
+-	tudnak	-	adni
+
+%a hétvégi kötcsei találkozón ilyen nem hangzott el .
+el	hangzott	-	-
+el	hangzott	-	-
+el	hangzott	-	-
+el	hangzott	-	-
+
+%hogy elkezdtünk gondolkozni ,
+el	kezdtünk	-	gondolkozni
+el	kezdtünk	-	gondolkozni
+-	elkezdtünk	-	gondolkozni
+-	elkezdtünk	-	gondolkozni
+
+%helyre tette az ország pénzügyeit ,
+-	tette	-	-
+-	tette	-	-
+-	tette	-	-
+helyre	tette	-	-
+
+%Újabb képek kerültek fel a gép adataival !
+fel	kerültek	-	-
+fel	kerültek	-	-
+-	kerültek	-	-
+fel	kerültek	-	-
+
+%s azon át egyeztetik a lépéseiket .
+-	egyeztetik	-	-
+-	egyeztetik	-	-
+-	egyeztetik	-	-
+át	egyeztetik	-	-
+
+%fejtette ki Palya Bea .
+ki	fejtette	-	-
+ki	fejtette	-	-
+ki	fejtette	-	-
+ki	fejtette	-	-
+
+%Vajon sikerült megugrania a Naughty Dog csapatának az Uncharted sorozattal felállított mércét ?
+-	sikerült	meg	ugrania
+-	sikerült	meg	ugrania
+-	sikerült	-	megugrania
+-	sikerült	-	megugrania
+
+%kirándulni visz ,
+-	visz	-	kirándulni
+-	visz	ki	rándulni
+-	visz	-	kirándulni
+-	visz	-	kirándulni
+
+%aki igazán sikereket szeretne elérni lovával a kapcsolat terén ,
+-	szeretne	el	érni
+-	szeretne	el	érni
+-	szeretne	-	elérni
+-	szeretne	-	elérni
+
+%nagyjából ennyire építették fel a filmet .
+fel	építették	-	-
+fel	építették	-	-
+fel	építették	-	-
+fel	építették	-	-
+
+%amikor mindenki mindent egyszerre szeretne elmesélni .
+-	szeretne	el	mesélni
+-	szeretne	el	mesélni
+-	szeretne	-	elmesélni
+-	szeretne	-	elmesélni
+
+%oda venném a diszkriminációval kapcsolatos problémákat ,
+-	venném	-	-
+-	venném	-	-
+-	venném	-	-
+oda	venném	-	-
+
+%ahol munkatársaink pontosan utána tudnak nézni a részleteknek .
+-	tudnak	utána	nézni
+-	tudnak	utána	nézni
+-	tudnak	-	nézni
+-	tudnak	utána	nézni
+
+%segíteni kell .
+-	kell	-	segíteni
+-	kell	-	segíteni
+-	kell	-	segíteni
+-	kell	-	segíteni
+
+%nekem így kell fizetnem .
+-	kell	-	fizetnem
+-	kell	-	fizetnem
+-	kell	-	fizetnem
+-	kell	-	fizetnem
+
+%de mar jopar topicban le vannak irva a szukseges kodekek .
+-	vannak	-	-
+-	vannak	-	-
+-	vannak	-	-
+-	vannak	-	-
+
+%mennyire tudja vele a játék vagy maga a szöveg az ördög kommentárján túl Isten történelmét is éreztetni
+-	tudja	-	éreztetni
+-	tudja	-	éreztetni
+-	tudja	-	éreztetni
+-	tudja	-	éreztetni
+
+%hogy olyasmi derüljön ki ,
+ki	derüljön	-	-
+ki	derüljön	-	-
+ki	derüljön	-	-
+ki	derüljön	-	-
+
+%Meg persze a float kulcsszót felejtsük el ,
+el	felejtsük	-	-
+el	felejtsük	-	-
+el	felejtsük	-	-
+el	felejtsük	-	-
+
+%mutatott rá .
+rá	mutatott	-	-
+rá	mutatott	-	-
+rá	mutatott	-	-
+rá	mutatott	-	-
+
+%amely Magnus Carlsen fölényes győzelmével fejeződött be .
+be	fejeződött	-	-
+be	fejeződött	-	-
+be	fejeződött	-	-
+be	fejeződött	-	-
+
+%az eddig decentralizált modellt egy centralizáltabb váltaná fel ,
+fel	váltaná	-	-
+fel	váltaná	-	-
+fel	váltaná	-	-
+fel	váltaná	-	-
+
+%Mit nem mondtam még el ?
+el	mondtam	-	-
+el	mondtam	-	-
+-	mondtam	-	-
+el	mondtam	-	-
+
+%nem döntöttem el előre ,
+el	döntöttem	-	-
+el	döntöttem	-	-
+el	döntöttem	-	-
+el	döntöttem	-	-
+
+%akikkel nem tudott megküzdeni .
+-	tudott	meg	küzdeni
+-	tudott	meg	küzdeni
+-	tudott	-	megküzdeni
+-	tudott	-	megküzdeni
+
+%hogy ma délutánig lehet benyújtani a privatizációs ajánlatot ,
+-	lehet	be	nyújtani
+-	lehet	be	nyújtani
+-	lehet	-	benyújtani
+-	lehet	-	benyújtani
+
+%hogy a kiállítás részeként helyeztünk el ún. tapintható tárgyakat a múzeumba .
+el	helyeztünk	-	-
+el	helyeztünk	-	-
+el	helyeztünk	-	-
+el	helyeztünk	-	-
+
+%A szem színe a macska fejlődése során lassan alakul ki ,
+ki	alakul	-	-
+ki	alakul	-	-
+ki	alakul	-	-
+ki	alakul	-	-
+
+%A nyomozó hatóságok erre támaszkodva tudják nyomon követni a gyanúsítottak kommunikációját .
+-	tudják	-	követni
+-	tudják	-	követni
+-	tudják	-	követni
+-	tudják	-	követni
+
+%Mindenki el van foglalva a maga gondjaival ,
+-	van	-	-
+-	van	-	-
+-	van	-	-
+-	van	-	-
+
+%Próbáld ki te is ,
+ki	próbáld	-	-
+ki	próbáld	-	-
+ki	próbáld	-	-
+-	próbáld	-	-
+
+%hogyan lehet úgy előre kalkulálni ,
+-	lehet	-	kalkulálni
+-	lehet	-	kalkulálni
+-	lehet	-	kalkulálni
+-	lehet	-	kalkulálni
+
+%a fókuszálásra nagyon sokat kell várnunk és a telefonon megjelenő kép nagyon alacsony felbontású -
+-	kell	-	várnunk
+-	kell	-	várnunk
+-	kell	-	várnunk
+-	kell	-	várnunk
+
+%hogy a HVIM több tucat szimpatizánsásával jegy nélkül be akart nyomulni a rendezvény helyszínére .
+-	akart	be	nyomulni
+-	akart	be	nyomulni
+-	akart	be	nyomulni
+-	akart	be	nyomulni
+
+%ám csupán 10 százalékuk felel meg az előírásoknak .
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+meg	felel	-	-
+
+%ha nem tennék meg a megfelelő evolúciós válaszlépéseket .
+meg	tennék	-	-
+meg	tennék	-	-
+meg	tennék	-	-
+meg	tennék	-	-
+
+%Asszem ilyen feltételek mellett nem lehet más ilyen autót venni .
+-	lehet	-	venni
+-	lehet	-	venni
+-	lehet	-	venni
+-	lehet	-	venni
+
+%A japán kormány szóvivője igyekezett elhessegetni az ország gazdaságát illető aggályokat ,
+-	igyekezett	el	hessegetni
+-	igyekezett	el	hessegetni
+-	igyekezett	-	elhessegetni
+-	igyekezett	-	elhessegetni
+
+%ott most lehetőséget tudunk adni az esélyteremtés érdekében .
+-	tudunk	-	adni
+-	tudunk	-	adni
+-	tudunk	-	adni
+-	tudunk	-	adni
+
+%utána még borsosan meg is fogjuk fizetni annak a használatát .
+-	fogjuk	meg	fizetni
+-	fogjuk	meg	fizetni
+meg	fogjuk	-	fizetni
+-	fogjuk	meg	fizetni
+
+%a Kongói Köztársaságot és a Kongói Demokratikus Köztársaságot ismerte meg ,
+meg	ismerte	-	-
+meg	ismerte	-	-
+meg	ismerte	-	-
+meg	ismerte	-	-
+
+%szereti a hosszabb anyagokat kinyomtatni ,
+-	szereti	ki	nyomtatni
+-	szereti	ki	nyomtatni
+-	szereti	-	kinyomtatni
+-	szereti	-	kinyomtatni
+
+%Rio de Janeiróban látta meg a napvilágot 30-án .
+meg	látta	-	-
+meg	látta	-	-
+meg	látta	-	-
+meg	látta	-	-
+
+%aki óvón terjeszti ki karjait Róma városa fölé .
+ki	terjeszti	-	-
+ki	terjeszti	-	-
+ki	terjeszti	-	-
+ki	terjeszti	-	-
+
+%mert hasonló fehérjeszerkezete miatt keresztreakció léphet fel .
+fel	léphet	-	-
+fel	léphet	-	-
+fel	léphet	-	-
+fel	léphet	-	-
+
+%Akkor arra a fószerra is emlékezned kell ,
+-	kell	-	emlékezned
+-	kell	-	emlékezned
+-	kell	-	emlékezned
+-	kell	-	emlékezned
+
+%Így néz ki Győzike bugyiban !
+ki	néz	-	-
+ki	néz	-	-
+ki	néz	-	-
+ki	néz	-	-
+
+%akik Spanyolországba mennek nyaralni .
+-	mennek	-	nyaralni
+-	mennek	-	nyaralni
+-	mennek	-	nyaralni
+-	mennek	-	nyaralni
+
+%mi fog ebből az egészből kijönni .
+-	fog	ki	jönni
+-	fog	ki	jönni
+-	fog	-	kijönni
+-	fog	-	kijönni
+
+%és egyéb intézkedésekkel is igyekeznek a környék lakosságának életminőségét óvni .
+-	igyekeznek	-	óvni
+-	igyekeznek	-	óvni
+-	igyekeznek	-	óvni
+-	igyekeznek	-	óvni
+
+%hogy nem vizsgálják felül a döntést ,
+felül	vizsgálják	-	-
+felül	vizsgálják	-	-
+-	vizsgálják	-	-
+felül	vizsgálják	-	-
+
+%föl nem függeszti bennem az emberekről való tudásomat ?
+föl	függeszti	-	-
+föl	függeszti	-	-
+föl	függeszti	-	-
+föl	függeszti	-	-
+
+%Az Aum-szekta követte el öt éve a gáztámadást a tokiói metróban ,
+el	követte	-	-
+el	követte	-	-
+el	követte	-	-
+el	követte	-	-
+
+%A 4-es főúton a Ceglédi elkerülő szakaszon üzemanyagtöltő állomás csomópontjának építése miatt útszűkületen kell áthajtani .
+-	kell	át	hajtani
+-	kell	át	hajtani
+-	kell	-	áthajtani
+-	kell	-	áthajtani
+
+%hisztis hang csúszik ki .
+ki	csúszik	-	-
+ki	csúszik	-	-
+ki	csúszik	-	-
+ki	csúszik	-	-
+
+%Utána meg fogja magát ,
+-	fogja	-	-
+-	fogja	-	-
+-	fogja	-	-
+-	fogja	-	-
+
+%Hol és hogyan ismertem meg Ernst Blochot ?
+meg	ismertem	-	-
+meg	ismertem	-	-
+meg	ismertem	-	-
+meg	ismertem	-	-
+
+%A tavaly termett gabonából eddig 3 millió tonnát adtak el a külkereskedők ,
+el	adtak	-	-
+el	adtak	-	-
+el	adtak	-	-
+el	adtak	-	-
+
+%de a buszvezetőt nem lehetett kizökkenteni ,
+-	lehetett	ki	zökkenteni
+-	lehetett	ki	zökkenteni
+-	lehetett	-	kizökkenteni
+-	lehetett	-	kizökkenteni
+
+%míg 15 százaléknyival előzte meg Nastasét Bihar ,
+meg	előzte	-	-
+meg	előzte	-	-
+meg	előzte	-	-
+meg	előzte	-	-
+
+%de vajon mit lehet a néptáncra alapozni ?
+-	lehet	-	alapozni
+-	lehet	-	alapozni
+-	lehet	-	alapozni
+-	lehet	-	alapozni
+
+%b számokról annyit kötünk ki ,
+ki	kötünk	-	-
+ki	kötünk	-	-
+ki	kötünk	-	-
+ki	kötünk	-	-
+
+%alatta csupán 1-1,5 sejt fér el .
+el	fér	-	-
+el	fér	-	-
+el	fér	-	-
+el	fér	-	-
+
+%Itt a törzsasztalnál sok sikert azért nem jósolnék neki .
+-	jósolnék	-	-
+-	jósolnék	-	-
+neki	jósolnék	-	-
+neki	jósolnék	-	-
+
+%az ritkán menekül meg attól ,
+meg	menekül	-	-
+meg	menekül	-	-
+-	menekül	-	-
+meg	menekül	-	-
+
+%úgy tört ki Kövesből :
+ki	tört	-	-
+ki	tört	-	-
+ki	tört	-	-
+ki	tört	-	-
+
+%A repülőgép eltűnését 18-án óra 35 perckor jelentették be ,
+be	jelentették	-	-
+be	jelentették	-	-
+be	jelentették	-	-
+be	jelentették	-	-
+
+%Nagyratörő állásteremtési tervekkel állt elő a kormány ,
+elő	állt	-	-
+elő	állt	-	-
+elő	állt	-	-
+elő	állt	-	-
+
+%akkor végig kellene gondolni ezt a további karcsúsodást ,
+-	kellene	végig	gondolni
+-	kellene	-	gondolni
+-	kellene	végig	gondolni
+-	kellene	-	gondolni
+
+%a helyi gazdaság és társadalom megerősítésére alapuló vidékfejlesztést tűzi ki célul .
+ki	tűzi	-	-
+ki	tűzi	-	-
+ki	tűzi	-	-
+ki	tűzi	-	-
+
+%Nem tudunk nyugodni ,
+-	tudunk	-	nyugodni
+-	tudunk	-	nyugodni
+-	tudunk	-	nyugodni
+-	tudunk	-	nyugodni
+
+%Tavasszal meg jön a tél ..!!!?
+-	jön	-	-
+-	jön	-	-
+-	jön	-	-
+meg	jön	-	-
+
+%hogy saját eredményeit a hidrogén-cianid ammónium-formiát hevítésével végzett szintézisével hasonlította össze .
+össze	hasonlította	-	-
+össze	hasonlította	-	-
+össze	hasonlította	-	-
+össze	hasonlította	-	-
+
+%kell kimunkálni .
+-	kell	ki	munkálni
+-	kell	ki	munkálni
+-	kell	-	kimunkálni
+-	kell	-	kimunkálni
+
+%Erre mindezidáig nem is tudtam elfogadható modellt készíteni .
+-	tudtam	-	készíteni
+-	tudtam	-	készíteni
+-	tudtam	-	készíteni
+-	tudtam	-	készíteni
+
+%amelynek tagjai nem lesznek képesek kifejezni önmagukat ,
+-	lesznek	ki	fejezni
+-	lesznek	ki	fejezni
+-	lesznek	-	kifejezni
+-	lesznek	-	kifejezni
+
+%a 17. cikk céljából közös megegyezéssel új időpontot fogadnak el .
+el	fogadnak	-	-
+el	fogadnak	-	-
+el	fogadnak	-	-
+el	fogadnak	-	-
+
+%Évtizedek alatt sem cserélték le a szimbolikus jelet ,
+le	cserélték	-	-
+le	cserélték	-	-
+le	cserélték	-	-
+le	cserélték	-	-
+
+%meg is osztottam .
+meg	osztottam	-	-
+meg	osztottam	-	-
+meg	osztottam	-	-
+meg	osztottam	-	-
+
+%Az összehasonlító irodalomtörténet tárgyköréből jelentek meg tanulmányai .
+meg	jelentek	-	-
+meg	jelentek	-	-
+meg	jelentek	-	-
+meg	jelentek	-	-
+
+%Cigány cigányt nem lop meg .
+meg	lop	-	-
+meg	lop	-	-
+meg	lop	-	-
+meg	lop	-	-
+
+%ezek szerint Erdély és a többi elszakított terület problémájának rendezése érdekében fegyverhez kellene nyúlni ?
+-	kellene	-	nyúlni
+-	kellene	-	nyúlni
+-	kellene	-	nyúlni
+-	kellene	-	nyúlni
+
+%beállitásokba keres meg
+meg	keres	-	-
+meg	keres	-	-
+meg	keres	-	-
+meg	keres	-	-
+
+%nem is merik ráadni magukat egy-egy új érzésre .
+-	merik	rá	adni
+-	merik	rá	adni
+-	merik	-	ráadni
+-	merik	-	ráadni
+
+%A közgyűlés legnagyobb frakcióját alkotó fideszes képviselők a közgyűlés szervezeti és működési szabályzatának módosításával érnék el a változásokat -
+el	érnék	-	-
+el	érnék	-	-
+el	érnék	-	-
+el	érnék	-	-
+
+%Éppen kanyarodtam egyet ,
+-	kanyarodtam	-	-
+-	kanyarodtam	-	-
+-	kanyarodtam	-	-
+egyet	kanyarodtam	-	-
+
+%Vaz nem tudta megmondani ,
+-	tudta	meg	mondani
+-	tudta	meg	mondani
+-	tudta	-	megmondani
+-	tudta	-	megmondani
+
+%És sokan ezért nem fogadják be ma sem ,
+be	fogadják	-	-
+be	fogadják	-	-
+be	fogadják	-	-
+be	fogadják	-	-
+
+%A műsor előtt kukásként dolgozó férfi a végső szavazáson mindössze 1,2%-kal maradt el az első helytől .
+el	maradt	-	-
+el	maradt	-	-
+-	maradt	-	-
+el	maradt	-	-
+
+%és az egyikbe tényleg megpróbál több utast beültetni a droszton sürgölődő hosztesz .
+meg	próbál	be	ültetni
+meg	próbál	be	ültetni
+-	megpróbál	-	beültetni
+-	megpróbál	-	beültetni
+
+%sőt saját magán sem tud segíteni
+-	tud	-	segíteni
+-	tud	-	segíteni
+-	tud	-	segíteni
+-	tud	-	segíteni
+
+%Dancse cs úr ügyrendben kíván szólni .
+-	kíván	-	szólni
+-	kíván	-	szólni
+-	kíván	-	szólni
+-	kíván	-	szólni
+
+%amelyeket az (1) bekezdés alkalmazásában biztonságos harmadik országoknak kell tekinteni .
+-	kell	-	tekinteni
+-	kell	-	tekinteni
+-	kell	-	tekinteni
+-	kell	-	tekinteni
+
+%Bár egyes DVD-lejátszókra és drágább tévékre is rá lehet dugni pendrive-ot ,
+-	lehet	rá	dugni
+-	lehet	rá	dugni
+-	lehet	rá	dugni
+-	lehet	rá	dugni
+
+%A bajnokságban öt csapat indult el ,
+el	indult	-	-
+el	indult	-	-
+el	indult	-	-
+el	indult	-	-
+
+%nem azért tölti le ,
+le	tölti	-	-
+le	tölti	-	-
+le	tölti	-	-
+le	tölti	-	-
+
+%hogy mérjék fel a lovas ágazathoz tartozó állami ingatlant ,
+fel	mérjék	-	-
+fel	mérjék	-	-
+fel	mérjék	-	-
+fel	mérjék	-	-
+
+%A telepítés elején megjelenő kódkérő ablak tetején található link használatával juthatunk el a regisztrációs oldalra ,
+el	juthatunk	-	-
+el	juthatunk	-	-
+el	juthatunk	-	-
+el	juthatunk	-	-
+
+%de nem tudnak százezreket költeni egy tükörreflexes felszerelésre .
+-	tudnak	-	költeni
+-	tudnak	-	költeni
+-	tudnak	-	költeni
+-	tudnak	-	költeni
+
+%hogy ki műveli meg a magyar földet .
+meg	műveli	-	-
+meg	műveli	-	-
+meg	műveli	-	-
+ki	műveli	-	-
+
+%a megismerés nehézségét nem szüntetjük meg .
+meg	szüntetjük	-	-
+meg	szüntetjük	-	-
+meg	szüntetjük	-	-
+meg	szüntetjük	-	-
+
+%akik nem tudják követni ezt a tiszta logikát ,
+-	tudják	-	követni
+-	tudják	-	követni
+-	tudják	-	követni
+-	tudják	-	követni
+
+%1992-ben jött ki az Abba-esque kislemez ,
+ki	jött	-	-
+ki	jött	-	-
+ki	jött	-	-
+ki	jött	-	-
+
+%2006-ban kétszer ennyi működési engedélyét vonták be -,
+be	vonták	-	-
+be	vonták	-	-
+be	vonták	-	-
+be	vonták	-	-
+
+%akkor vizsgáljuk meg azt is ,
+meg	vizsgáljuk	-	-
+meg	vizsgáljuk	-	-
+meg	vizsgáljuk	-	-
+meg	vizsgáljuk	-	-
+
+%Már csak a csupasz földön telepedhettünk le ,
+le	telepedhettünk	-	-
+le	telepedhettünk	-	-
+le	telepedhettünk	-	-
+le	telepedhettünk	-	-
+
+%mi jön ki (
+ki	jön	-	-
+ki	jön	-	-
+ki	jön	-	-
+ki	jön	-	-
+
+%hogy térjenek át a katolikus vallásra .
+át	térjenek	-	-
+át	térjenek	-	-
+-	térjenek	-	-
+át	térjenek	-	-
+
+%Erről ua. meg szoktunk feledkezni :(
+meg	szoktunk	-	feledkezni
+-	szoktunk	meg	feledkezni
+-	megszoktunk	-	feledkezni
+-	szoktunk	meg	feledkezni
+
+%Van -e mire támaszkodni ,
+-	van	-	támaszkodni
+-	van	-	támaszkodni
+-	van	-	támaszkodni
+-	van	-	támaszkodni
+
+%mozgó autót kellett átugrania .
+-	kellett	át	ugrania
+-	kellett	át	ugrania
+-	kellett	-	átugrania
+-	kellett	-	átugrania
+
+%választottak be egyetlen pedagógust a csapatba ,
+be	választottak	-	-
+be	választottak	-	-
+be	választottak	-	-
+be	választottak	-	-
+
+%Figyelemre méltó eredményeket ért el 2002-ben az adott területen Olaszország és Hollandia is (
+el	ért	-	-
+el	ért	-	-
+el	ért	-	-
+el	ért	-	-
+
+%hanem a betegségnek megfelelő típusú tornát kell végezni ,
+-	kell	-	végezni
+-	kell	-	végezni
+-	kell	-	végezni
+-	kell	-	végezni
+
+%A négyórás repülőút végén a portugáliainál közel 25 Celsius-fokkal hidegebb időben szálltak ki a játékosok .
+ki	szálltak	-	-
+ki	szálltak	-	-
+ki	szálltak	-	-
+ki	szálltak	-	-
+
+%hogy így ki kéne emelni .
+-	kéne	ki	emelni
+-	kéne	ki	emelni
+-	kéne	ki	emelni
+-	kéne	ki	emelni
+
+%Az 1940-es évek első felében tűnt fel az igen gólérzékeny játékos .
+fel	tűnt	-	-
+fel	tűnt	-	-
+fel	tűnt	-	-
+fel	tűnt	-	-
+
+%A háziorvosokkal közösen dolgozták ki az erről szóló rendeletet ,
+ki	dolgozták	-	-
+ki	dolgozták	-	-
+ki	dolgozták	-	-
+ki	dolgozták	-	-
+
+%Próbáld ki ,
+ki	próbáld	-	-
+ki	próbáld	-	-
+ki	próbáld	-	-
+-	próbáld	-	-
+
+%Későn fekszünk le (
+le	fekszünk	-	-
+le	fekszünk	-	-
+le	fekszünk	-	-
+le	fekszünk	-	-
+
+%hiszen az ősszel hátralévő hat összecsapásából mindössze egyet veszített el a gárda (
+el	veszített	-	-
+el	veszített	-	-
+el	veszített	-	-
+el	veszített	-	-
+
+%hogy ő dönthesse el ,
+el	dönthesse	-	-
+el	dönthesse	-	-
+el	dönthesse	-	-
+el	dönthesse	-	-
+
+%Lelki oldalról továbbra sem tudjuk feldolgozni ,
+-	tudjuk	fel	dolgozni
+-	tudjuk	fel	dolgozni
+-	tudjuk	-	feldolgozni
+-	tudjuk	-	feldolgozni
+
+%Jöjj vissza ,
+vissza	jöjj	-	-
+vissza	jöjj	-	-
+vissza	jöjj	-	-
+vissza	jöjj	-	-
+
+%hogy ők majd XXI. századi módon jelenítik meg a munkavállalói érdekképviseletet .
+meg	jelenítik	-	-
+meg	jelenítik	-	-
+meg	jelenítik	-	-
+meg	jelenítik	-	-
+
+%Bele kell nyugodnunk uraim ,
+-	kell	bele	nyugodnunk
+-	kell	bele	nyugodnunk
+-	kell	bele	nyugodnunk
+-	kell	bele	nyugodnunk
+
+%fut végig a Tünel és a Taksim tér között .
+végig	fut	-	-
+végig	fut	-	-
+-	fut	-	-
+végig	fut	-	-
+
+%újabb jogsegélykérelmet juttatott el a magyar hatóságoknak .
+el	juttatott	-	-
+el	juttatott	-	-
+el	juttatott	-	-
+el	juttatott	-	-
+
+%területi aránytalanságok is tovább fognak fokozódni az országban ;
+-	fognak	-	fokozódni
+-	fognak	-	fokozódni
+-	fognak	tovább	fokozódni
+-	fognak	-	fokozódni
+
+%A Munka Törvénykönyv módosításával esélyegyenlőséget szeretnének adni a női munkaerőnek és megszünne a férfi és női munkaerő bérezésében tapasztalható diszkrimináció -
+-	szeretnének	-	adni
+-	szeretnének	-	adni
+-	megszünne	-	adni
+-	szeretnének	-	adni
+
+%vagy csak 1millió ilyen lekapcsolás ölné meg ,
+meg	ölné	-	-
+meg	ölné	-	-
+meg	ölné	-	-
+meg	ölné	-	-
+
+%A térdeiden kell előre haladnod
+-	kell	-	haladnod
+-	kell	-	haladnod
+-	kell	-	haladnod
+-	kell	-	haladnod
+
+%akik a finnugor elméleten kívül mást mernek mondani .
+-	mernek	-	mondani
+-	mernek	-	mondani
+-	mernek	-	mondani
+-	mernek	-	mondani
+
+%az e-újságért kattintson ide !
+ide	kattintson	-	-
+ide	kattintson	-	-
+-	kattintson	-	-
+ide	kattintson	-	-
+
+%nem értik meg ,
+meg	értik	-	-
+meg	értik	-	-
+meg	értik	-	-
+meg	értik	-	-
+
+%indokolta meg távozását az újpesti szurkolók nagy kedvence .
+meg	indokolta	-	-
+meg	indokolta	-	-
+meg	indokolta	-	-
+meg	indokolta	-	-
+
+%óriási terheket vett át .
+át	vett	-	-
+át	vett	-	-
+-	vett	-	-
+át	vett	-	-
+
+%és el fognak indítani .
+-	fognak	el	indítani
+-	fognak	el	indítani
+-	fognak	el	indítani
+-	fognak	el	indítani
+
+%A lejátszó pont úgy néz ki ,
+ki	néz	-	-
+ki	néz	-	-
+ki	néz	-	-
+ki	néz	-	-
+
+%Hogyan írná le az átlagos WinRAR-felhasználót ?
+le	írná	-	-
+le	írná	-	-
+le	írná	-	-
+le	írná	-	-
+
+%Normálisan érvelni nem tudsz ,
+-	tudsz	-	érvelni
+-	tudsz	-	érvelni
+-	tudsz	-	érvelni
+-	tudsz	-	érvelni
+
+%utánna órákon át letargikusan fekszik .
+-	fekszik	-	-
+át	fekszik	-	-
+-	fekszik	-	-
+át	fekszik	-	-
+
+%1961 augusztusa és 1989 novembere között mintegy 5000 embernek sikerült az NDK-ból Nyugat-Berlinbe menekülnie ,
+-	sikerült	-	menekülnie
+-	sikerült	-	menekülnie
+-	sikerült	-	menekülnie
+-	sikerült	-	menekülnie
+
+%hogy az ország legjobb szakértőjének a szakértésére akár fel is mentheti a bíróság rezest .
+fel	mentheti	-	-
+fel	mentheti	-	-
+fel	mentheti	-	-
+fel	mentheti	-	-
+
+%és el akarják kenni a dolgot .
+-	akarják	el	kenni
+-	akarják	el	kenni
+-	akarják	el	kenni
+-	akarják	el	kenni
+
+%A folytatás az előző rész történései után hat hónappal veszi fel a történet fonalát ,
+fel	veszi	-	-
+fel	veszi	-	-
+fel	veszi	-	-
+fel	veszi	-	-
+
+%lezáró műveletet kell végezni .
+-	kell	-	végezni
+-	kell	-	végezni
+-	kell	-	végezni
+-	kell	-	végezni
+
+%ott állították be a gyógyszert .
+be	állították	-	-
+be	állították	-	-
+be	állították	-	-
+be	állították	-	-
+
+%De mindjárt újra teljes jogaiba helyezi vissza a nyelvet ,
+vissza	helyezi	-	-
+vissza	helyezi	-	-
+vissza	helyezi	-	-
+vissza	helyezi	-	-
+
+%azt a lottózáson kívül csak a többi ember hülyeségét kihasználva teheted meg ...
+meg	teheted	-	-
+meg	teheted	-	-
+meg	teheted	-	-
+meg	teheted	-	-
+
+%Keddre virradóra két rakéta csapódott be a hatalmas bagrami repülőtéren ,
+be	csapódott	-	-
+be	csapódott	-	-
+be	csapódott	-	-
+be	csapódott	-	-
+
+%Ha csak el nem fogadtam ,
+el	fogadtam	-	-
+el	fogadtam	-	-
+el	fogadtam	-	-
+el	fogadtam	-	-
+
+%Azt csak a hordók elszállítása után lehet megállapítani ,
+-	lehet	meg	állapítani
+-	lehet	meg	állapítani
+-	lehet	-	megállapítani
+-	lehet	-	megállapítani
+
+%a Bizottság javasolni fogja a 2001 (
+-	fogja	-	javasolni
+-	fogja	-	javasolni
+-	fogja	-	javasolni
+-	fogja	-	javasolni
+
+%én meg az egyik kollégám mi ketten vettük le a harisnyanadrágot .
+le	vettük	-	-
+le	vettük	-	-
+le	vettük	-	-
+le	vettük	-	-
+
+%szükséges volt mindenképpen a hetesre emelni ,
+-	volt	-	emelni
+-	volt	-	emelni
+-	volt	-	emelni
+-	volt	-	emelni
+
+%Mert ugyan lehet mosolyogni azon ,
+-	lehet	-	mosolyogni
+-	lehet	-	mosolyogni
+-	lehet	-	mosolyogni
+-	lehet	-	mosolyogni
+
+%A Valve a frissítést a Summer Assault névre keresztelt akcióval támogatja meg ,
+meg	támogatja	-	-
+meg	támogatja	-	-
+meg	támogatja	-	-
+meg	támogatja	-	-
+
+%Azt szoktam mondani ,
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+-	szoktam	-	mondani
+
+%A helyesen válaszolók között egy egy 1,5 kg-os FRISKIES eledelt és tálkát sorsolunk ki !
+ki	sorsolunk	-	-
+ki	sorsolunk	-	-
+ki	sorsolunk	-	-
+ki	sorsolunk	-	-
+
+%1968-ban ebben a sportágban versenyezve halt meg a brit pilóta .
+meg	halt	-	-
+meg	halt	-	-
+meg	halt	-	-
+meg	halt	-	-
+
+%hogy ne kelljen foglalkozni a szavak átképzésével az egyik szófajból a másikba .
+-	kelljen	-	foglalkozni
+-	kelljen	-	foglalkozni
+-	kelljen	-	foglalkozni
+-	kelljen	-	foglalkozni
+
+%majd igyekszik nem találkozni a sráccal ,
+-	igyekszik	-	találkozni
+-	igyekszik	-	találkozni
+-	igyekszik	-	találkozni
+-	igyekszik	-	találkozni
+
+%kutya mód le lesz nerfelve ,
+-	lesz	-	-
+-	lesz	-	-
+-	lesz	-	-
+le	lesz	-	-
+
+%ha USSD kódnál adom meg a hívószámot ,
+meg	adom	-	-
+meg	adom	-	-
+meg	adom	-	-
+meg	adom	-	-
+
+%részt és a szöveged utolsó sorát hagyják meg ,
+meg	hagyják	-	-
+meg	hagyják	-	-
+meg	hagyják	-	-
+meg	hagyják	-	-
+
+%A korábbi évek tapasztalatai alapján a húsvéti ünnepek ideje alatt közútjainkon a forgalom növekedésével kell számolni .
+-	kell	-	számolni
+-	kell	-	számolni
+-	kell	-	számolni
+-	kell	-	számolni
+
+%A lakók egyelőre nem akarnak kiköltözni .
+-	akarnak	ki	költözni
+-	akarnak	ki	költözni
+-	akarnak	-	kiköltözni
+-	akarnak	-	kiköltözni
+
+%Hogyan győződhetünk meg erről ?
+meg	győződhetünk	-	-
+meg	győződhetünk	-	-
+meg	győződhetünk	-	-
+meg	győződhetünk	-	-
+
+%Egy szörnyeteget szabadítottunk rá erre a gyanútlan világra :
+rá	szabadítottunk	-	-
+rá	szabadítottunk	-	-
+rá	szabadítottunk	-	-
+rá	szabadítottunk	-	-
+
+%Honnan került elő meglepetésszerűen Hruscsov &ndash;
+elő	került	-	-
+elő	került	-	-
+elő	került	-	-
+elő	került	-	-
+
+%illetve a közoktatási törvény módosítása vélhetőleg néhány tantárgy oktatását is befolyásolni fogja ,
+-	fogja	-	befolyásolni
+-	fogja	-	befolyásolni
+-	fogja	-	befolyásolni
+-	fogja	-	befolyásolni
+
+%hogy 1millióba fog kerülni a kenyér .
+-	fog	-	kerülni
+-	fog	-	kerülni
+-	fog	1millióba	kerülni
+-	fog	-	kerülni
+
+%semmiben nem akadályoztam meg ,
+meg	akadályoztam	-	-
+meg	akadályoztam	-	-
+meg	akadályoztam	-	-
+meg	akadályoztam	-	-
+
+%A fáradtság és az idegeskedés hatással van rá .
+-	van	-	-
+-	van	-	-
+rá	van	-	-
+-	van	-	-
+
+%de ez az album nem hozta meg a várt áttörést .
+meg	hozta	-	-
+meg	hozta	-	-
+meg	hozta	-	-
+meg	hozta	-	-
+
+%csak az 25-én fennálló adósságállományukat vállalja át az állam .
+át	vállalja	-	-
+át	vállalja	-	-
+-	vállalja	-	-
+át	vállalja	-	-
+
+%Ez az elképzelés pedig talán ennek a kormánynak a közigazgatás-fejlesztési elképzeléseivel sem esik teljes mértékben egybe ,
+egybe	esik	-	-
+egybe	esik	-	-
+-	esik	-	-
+egybe	esik	-	-
+
+%jelentette ki a polgármester .
+ki	jelentette	-	-
+ki	jelentette	-	-
+ki	jelentette	-	-
+ki	jelentette	-	-
+
+%mert nem ért egyet a Legfelsőbb Bíróság eddigi álláspontjával .
+egyet	ért	-	-
+-	ért	-	-
+egyet	ért	-	-
+egyet	ért	-	-
+
+%amely elől már nem lehetett kitérni .
+-	lehetett	ki	térni
+-	lehetett	ki	térni
+-	lehetett	-	kitérni
+-	lehetett	-	kitérni
+
+%hogy Angliában trónharcok törjenek ki a két hercegi dinasztia (
+ki	törjenek	-	-
+ki	törjenek	-	-
+ki	törjenek	-	-
+ki	törjenek	-	-
+
+%CSAK TEGYÜK FEL !
+fel	tegyük	-	-
+fel	tegyük	-	-
+-	tegyük	-	-
+fel	tegyük	-	-
+
+%Az a jó ha szimetrikusan helyezkedik el a törzs körül .
+el	helyezkedik	-	-
+el	helyezkedik	-	-
+el	helyezkedik	-	-
+el	helyezkedik	-	-
+
+%hanem hibát követtek el .
+el	követtek	-	-
+el	követtek	-	-
+el	követtek	-	-
+el	követtek	-	-
+
+%dr. Szili Katalin és Tóth András terjesztettek elő ,
+elő	terjesztettek	-	-
+elő	terjesztettek	-	-
+elő	terjesztettek	-	-
+elő	terjesztettek	-	-
+
+%de a gondolatátvitel is megoldhatóvá fog válni .
+-	fog	-	válni
+-	fog	-	válni
+-	fog	-	válni
+-	fog	-	válni
+
+%Szeretem elképzelni ,
+-	szeretem	el	képzelni
+-	szeretem	el	képzelni
+-	szeretem	-	elképzelni
+-	szeretem	-	elképzelni
+
+%Az Ottawa Senators-Minnesota Wild találkozón az ottawai Clarke MacArthur zseniális gólpasszal hívta fel magára a figyelmet .
+fel	hívta	-	-
+fel	hívta	-	-
+fel	hívta	-	-
+fel	hívta	-	-
+
+%hogy a gyermekeket EU-szerte biztonságos és hatásos gyógyszerekkel lehessen ellátni .
+-	lehessen	el	látni
+-	lehessen	el	látni
+-	lehessen	-	ellátni
+-	lehessen	-	ellátni
+
+%Tomi A oldalon bejelentkezve tudod meglévő előfizetésedet meghosszabbítani ,
+-	tudod	meg	hosszabbítani
+-	tudod	meg	hosszabbítani
+-	tudod	-	meghosszabbítani
+-	tudod	-	meghosszabbítani
+
+%116 esztendős kanadai Marie-Louise Febronie Meilleur került be ,
+be	került	-	-
+be	került	-	-
+be	került	-	-
+be	került	-	-
+
+%Ezt a törvény nem mondja ki egyértelműen ,
+ki	mondja	-	-
+ki	mondja	-	-
+ki	mondja	-	-
+ki	mondja	-	-
+
+%Ha a tiedet felrakod tölteni ,
+fel	rakod	-	tölteni
+fel	rakod	-	tölteni
+-	felrakod	-	tölteni
+-	felrakod	-	tölteni
+
+%Csak akkor lehet visszaszorítani a korrupciót ,
+-	lehet	vissza	szorítani
+-	lehet	vissza	szorítani
+-	lehet	-	visszaszorítani
+-	lehet	-	visszaszorítani
+
+%terápiákat kell keresni .
+-	kell	-	keresni
+-	kell	-	keresni
+-	kell	-	keresni
+-	kell	-	keresni
+
+%amelyet korábban a Bandai adott ki WonderSwan Colorra .
+ki	adott	-	-
+ki	adott	-	-
+ki	adott	-	-
+ki	adott	-	-
+
+%minél hamarabb szabadulj meg tőle ,
+meg	szabadulj	-	-
+meg	szabadulj	-	-
+meg	szabadulj	-	-
+meg	szabadulj	-	-
+
+%hogy három embert állított elő a rendőrség a meccs előtt .
+elő	állított	-	-
+elő	állított	-	-
+elő	állított	-	-
+elő	állított	-	-
+
+%A férfit azért vonták be tanúként az eljárásba ,
+be	vonták	-	-
+be	vonták	-	-
+be	vonták	-	-
+be	vonták	-	-
+
+%amely ugyancsak ezzel a funkcióval fog bővülni .
+-	fog	-	bővülni
+-	fog	-	bővülni
+-	fog	-	bővülni
+-	fog	-	bővülni
+
+%Nagy mínuszból tudott felállni az OTP .
+-	tudott	fel	állni
+-	tudott	fel	állni
+-	tudott	-	felállni
+-	tudott	-	felállni
+
+%mosoly húzódott át az arcán ,
+át	húzódott	-	-
+át	húzódott	-	-
+-	húzódott	-	-
+át	húzódott	-	-
+
+%Zimnoch menedzsmentje megpróbálja rábeszélni egy meccsre az 50 éves Evander Holyfieldet .
+meg	próbálja	rá	beszélni
+meg	próbálja	rá	beszélni
+-	megpróbálja	-	rábeszélni
+-	megpróbálja	-	rábeszélni
+
+%hogy ebből fogsz tanulni a jövőre nézve ,
+-	fogsz	-	tanulni
+-	fogsz	-	tanulni
+-	fogsz	-	tanulni
+-	fogsz	-	tanulni
+
+%a nyugat-európai magyar szervezetek nevében pedig Deák Ernő szólt hozzá a stratégiai vitaanyaghoz .
+hozzá	szólt	-	-
+hozzá	szólt	-	-
+hozzá	szólt	-	-
+hozzá	szólt	-	-
+
+%Egész Magyarországról lehet pályázni ,
+-	lehet	-	pályázni
+-	lehet	-	pályázni
+-	lehet	-	pályázni
+-	lehet	-	pályázni
+
+%s mintegy másfél évtizedet kötött le ez a tevékenység .
+le	kötött	-	-
+le	kötött	-	-
+le	kötött	-	-
+le	kötött	-	-
+
+%Ebben a pózban a nő csípőjének körkörös mozgását lehet kombinálni a csípő lefelé és felfelé irányuló mozgásával .
+-	lehet	-	kombinálni
+-	lehet	-	kombinálni
+-	lehet	-	kombinálni
+-	lehet	-	kombinálni
+
+%könyörtelenül elbánt vetélytársaival- hangyaként születik újjá .
+újjá	születik	-	-
+újjá	születik	-	-
+-	születik	-	-
+újjá	születik	-	-
+
+%Nem lehet túl sok ,
+-	lehet	-	-
+-	lehet	-	-
+-	lehet	-	-
+-	lehet	-	-
+
+%áthidaló csomagot tudjon benyújtani később majd az Országgyűlés asztalára ,
+-	tudjon	be	nyújtani
+-	tudjon	be	nyújtani
+-	tudjon	-	benyújtani
+-	tudjon	-	benyújtani
+
+%mentem be .
+be	mentem	-	-
+be	mentem	-	-
+be	mentem	-	-
+be	mentem	-	-
+
+%tűnjenek el már ezek a folyosóról .
+el	tűnjenek	-	-
+el	tűnjenek	-	-
+el	tűnjenek	-	-
+el	tűnjenek	-	-
+
+%mit kell tennie .
+-	kell	-	tennie
+-	kell	-	tennie
+-	kell	-	tennie
+-	kell	-	tennie
+
+%és jóváhagyni annak paramétereit amennyiben megfelelt a kritériumoknak .
+meg	felelt	-	-
+meg	felelt	-	-
+-	megfelelt	-	jóváhagyni
+-	megfelelt	-	jóváhagyni
+
+%hogy nem lesz kénytelen megalkudni ,
+-	lesz	meg	alkudni
+-	lesz	meg	alkudni
+-	lesz	-	megalkudni
+-	lesz	-	megalkudni
+
+%hogy nem is tudunk példát mondani az elmúlt tíz évben .
+-	tudunk	-	mondani
+-	tudunk	-	mondani
+-	tudunk	-	mondani
+-	tudunk	-	mondani
+
+%nem kéne esetleg elmélyedni kicsit matematikailag is a dologban ,
+-	kéne	el	mélyedni
+-	kéne	el	mélyedni
+-	kéne	-	elmélyedni
+-	kéne	-	elmélyedni
+
+%azzal függ össze ,
+össze	függ	-	-
+össze	függ	-	-
+össze	függ	-	-
+össze	függ	-	-
+
+%soha nem fogod megtudni .
+-	fogod	meg	tudni
+-	fogod	meg	tudni
+-	fogod	-	megtudni
+-	fogod	-	megtudni
+
+%és csak a statisztikák növeléséért odamegyek bámészkodni .
+oda	megyek	-	bámészkodni
+oda	megyek	-	bámészkodni
+-	odamegyek	-	bámészkodni
+-	odamegyek	-	bámészkodni
+
+%de végül nem tudott megbirkózni a tüdőgyulladással Shiloh Pepin ,
+-	tudott	meg	birkózni
+-	tudott	meg	birkózni
+-	tudott	-	megbirkózni
+-	tudott	-	megbirkózni
+
+%a pápa Róma szenátorának nevezte ki 1318-34 Genova ,
+ki	nevezte	-	-
+ki	nevezte	-	-
+ki	nevezte	-	-
+ki	nevezte	-	-
+
+%Ezzel kapcsolatban számos kérdés vetődik föl .
+föl	vetődik	-	-
+föl	vetődik	-	-
+föl	vetődik	-	-
+föl	vetődik	-	-
+
+%hogy jutok el Kelenföldre .
+el	jutok	-	-
+el	jutok	-	-
+-	jutok	-	-
+el	jutok	-	-
+
+%A gyönyörhöz kell ragaszkodnom ,
+-	kell	-	ragaszkodnom
+-	kell	-	ragaszkodnom
+-	kell	-	ragaszkodnom
+-	kell	-	ragaszkodnom
+
+%Pont harmincadik szülinapja idején robbant be Keanu Reeves oldalán a Féktelenül -ben ,
+be	robbant	-	-
+be	robbant	-	-
+be	robbant	-	-
+be	robbant	-	-
+
+%A számítások szerint a múlt hónapban egy-egy részvényalappal éves szinten 100 százalékos hozamot is el lehetett érni .
+-	lehetett	el	érni
+-	lehetett	el	érni
+-	lehetett	el	érni
+-	lehetett	el	érni
+
+%1861. a románok itt megtartott gyűlése Erdély uniója ellen lépett fel .
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+
+%mintha más vigyázna rá !
+-	vigyázna	-	-
+-	vigyázna	-	-
+rá	vigyázna	-	-
+rá	vigyázna	-	-
+
+%közül kellene megvásárolniuk kettőt-hármat .
+-	kellene	meg	vásárolniuk
+-	kellene	meg	vásárolniuk
+-	kellene	-	megvásárolniuk
+-	kellene	-	megvásárolniuk
+
+%Mindenképpen szót kell ejteni az alföldi festészet kiemelkedő alakjairól ,
+-	kell	-	ejteni
+-	kell	-	ejteni
+-	kell	-	ejteni
+-	kell	-	ejteni
+
+%akik a felsőoktatásba szeretnének jelentkezni .
+-	szeretnének	-	jelentkezni
+-	szeretnének	-	jelentkezni
+-	szeretnének	-	jelentkezni
+-	szeretnének	-	jelentkezni
+
+%amelyet csak ezután kívánnak bemutatni a kongresszusban ,
+-	kívánnak	be	mutatni
+-	kívánnak	be	mutatni
+-	kívánnak	-	bemutatni
+-	kívánnak	-	bemutatni
+
+%ahol a kinti fényesség után igencsak hozzá kellett szokni a homályhoz .
+-	kellett	hozzá	szokni
+-	kellett	hozzá	szokni
+-	kellett	hozzá	szokni
+-	kellett	hozzá	szokni
+
+%közben lehet beszélgetni akár még ismeretlen emberekkel is ,
+-	lehet	-	beszélgetni
+-	lehet	-	beszélgetni
+-	lehet	-	beszélgetni
+-	lehet	-	beszélgetni
+
+%Én természetesen bajnokcsapatot szeretnék a Kecskemétből csinálni ,
+-	szeretnék	-	csinálni
+-	szeretnék	-	csinálni
+-	szeretnék	-	csinálni
+-	szeretnék	-	csinálni
+
+%hogy ki tudja fizetni a mintegy húszmillió forintos tartozását .
+-	tudja	ki	fizetni
+-	tudja	ki	fizetni
+-	tudja	ki	fizetni
+-	tudja	ki	fizetni
+
+%Aki nem sajnálja adni a puszikat ,
+-	sajnálja	-	adni
+-	sajnálja	-	adni
+-	sajnálja	-	adni
+-	sajnálja	-	adni
+
+%nem mindig tartottam be ezeket a tilalmakat ,
+be	tartottam	-	-
+be	tartottam	-	-
+be	tartottam	-	-
+be	tartottam	-	-
+
+%hogy egy ilyen ötletet nem utasít el a minisztérium ,
+el	utasít	-	-
+el	utasít	-	-
+el	utasít	-	-
+el	utasít	-	-
+
+%Pásztor István Fogházba kell vonulnia Pásztor István válogatott kézilabdázónak -
+-	kell	-	vonulnia
+-	kell	-	vonulnia
+-	kell	-	vonulnia
+-	kell	-	vonulnia
+
+%az államtitkár úr pedig leváltásomat ugyanazon év 8-án írta alá .
+alá	írta	-	-
+alá	írta	-	-
+alá	írta	-	-
+alá	írta	-	-
+
+%Ám ez a két vak nem csupán a bajban volt együtt ,
+-	volt	-	-
+-	volt	-	-
+-	volt	-	-
+-	volt	-	-
+
+%rengeteg munkát és pénzt öl bele ,
+bele	öl	-	-
+bele	öl	-	-
+bele	öl	-	-
+bele	öl	-	-
+
+%Egy év múlva Frankfurtban már a széria modellt állították ki ,
+ki	állították	-	-
+ki	állították	-	-
+ki	állították	-	-
+ki	állították	-	-
+
+%de a lap szerint a formai feltételeknek ez a pályázat sem felelt meg teljesen .
+meg	felelt	-	-
+meg	felelt	-	-
+meg	felelt	-	-
+meg	felelt	-	-
+
+%A szórakoztató művelődésnek csak a csírái jelentek meg ,
+meg	jelentek	-	-
+meg	jelentek	-	-
+meg	jelentek	-	-
+meg	jelentek	-	-
+
+%Meg tudnánk úgy oldani ,
+-	tudnánk	meg	oldani
+-	tudnánk	-	oldani
+-	tudnánk	meg	oldani
+-	tudnánk	-	oldani
+
+%miért nem szállították el a mai napig sem a roncsot ?
+el	szállították	-	-
+el	szállították	-	-
+el	szállították	-	-
+el	szállították	-	-
+
+%az e-újságért kattintson ide !
+ide	kattintson	-	-
+ide	kattintson	-	-
+-	kattintson	-	-
+ide	kattintson	-	-
+
+%a bizalomgyakorlás révén nyilvánul meg egy-egy közösség életében .
+meg	nyilvánul	-	-
+meg	nyilvánul	-	-
+meg	nyilvánul	-	-
+meg	nyilvánul	-	-
+
+%Csak akkor némulnak el a vonós hangszerek ,
+el	némulnak	-	-
+el	némulnak	-	-
+el	némulnak	-	-
+el	némulnak	-	-
+
+%hogy az irányitótoronyból valaki szóbeli utasításokkal látja el .
+el	látja	-	-
+el	látja	-	-
+el	látja	-	-
+el	látja	-	-
+
+%Mivel azonban a terveibe nem avat be senkit a szűkebb környezetében ,
+be	avat	-	-
+be	avat	-	-
+be	avat	-	-
+be	avat	-	-
+
+%Schiffer András szerint az Alkotmánybíróság hatáskörét nem a 98 százalékos különadó miatt akarják módosítani ,
+-	akarják	-	módosítani
+-	akarják	-	módosítani
+-	akarják	-	módosítani
+-	akarják	-	módosítani
+
+%Azok sem menekültek meg ,
+meg	menekültek	-	-
+meg	menekültek	-	-
+meg	menekültek	-	-
+meg	menekültek	-	-
+
+%Magyarországon az általános biztonsági szabályok szerint lehet forgalomba hozni a termékeket ,
+-	lehet	-	hozni
+-	lehet	-	hozni
+-	lehet	-	hozni
+-	lehet	-	hozni
+
+%akkor mindenképpen ki kell alakítani egy normális együttműködés lehetőségét köztünk és a Magyar Nemzeti Bank között .
+-	kell	ki	alakítani
+-	kell	ki	alakítani
+-	kell	ki	alakítani
+-	kell	ki	alakítani
+
+%Az elmúlt 24 óra sporthírei egy helyen Beszéljük meg !
+meg	beszéljük	-	-
+meg	beszéljük	-	-
+meg	beszéljük	-	-
+meg	beszéljük	-	-
+
+%védje meg magát Dési .
+meg	védje	-	-
+meg	védje	-	-
+meg	védje	-	-
+meg	védje	-	-
+
+%a szülés annyira hirtelen indult meg ,
+meg	indult	-	-
+meg	indult	-	-
+meg	indult	-	-
+meg	indult	-	-
+
+%A rendőrök értek oda először ,
+oda	értek	-	-
+oda	értek	-	-
+először	értek	-	-
+oda	értek	-	-
+
+%kell építeni .
+-	kell	-	építeni
+-	kell	-	építeni
+-	kell	-	építeni
+-	kell	-	építeni
+
+%Én akartam fogni a kezed ,
+-	akartam	-	fogni
+-	akartam	-	fogni
+-	akartam	-	fogni
+-	akartam	-	fogni
+
+%-Kifogásként merült fel ,
+fel	merült	-	-
+fel	merült	-	-
+fel	merült	-	-
+fel	merült	-	-
+
+%Második albumuk 1991 jelent meg
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+
+%ők maguk fognak cselekedni
+-	fognak	-	cselekedni
+-	fognak	-	cselekedni
+-	fognak	-	cselekedni
+-	fognak	-	cselekedni
+
+%hogy a várost újjá akarják építeni .
+-	akarják	újjá	építeni
+-	akarják	újjá	építeni
+-	akarják	-	építeni
+-	akarják	újjá	építeni
+
+%Ez idő alatt a BRFK-nak újra meg kell keresnie a német hatóságokat ,
+-	kell	meg	keresnie
+-	kell	meg	keresnie
+-	kell	meg	keresnie
+-	kell	meg	keresnie
+
+%és természetesen a NATO mostani akciója mindenképpen ide sorolódik ,-
+-	sorolódik	-	-
+-	sorolódik	-	-
+-	sorolódik	-	-
+ide	sorolódik	-	-
+
+%-ért és azt a kérdést is fel lehet tenni ,
+-	lehet	fel	tenni
+-	lehet	fel	tenni
+-	lehet	fel	tenni
+-	lehet	fel	tenni
+
+%azért fogták el az ÁVO-st ,
+el	fogták	-	-
+el	fogták	-	-
+el	fogták	-	-
+-	fogták	-	-
+
+%semmi sem taszít le ,
+le	taszít	-	-
+le	taszít	-	-
+le	taszít	-	-
+le	taszít	-	-
+
+%hogy felelősek a környezetükért és tenni is tudnak érte .
+-	tudnak	-	tenni
+-	tudnak	-	tenni
+érte	tudnak	-	tenni
+-	tudnak	-	tenni
+
+%oké hbo le szeretném monadani
+-	szeretném	le	mondani
+-	szeretném	-	mondani
+-	szeretném	-	-
+-	szeretném	le	mondani
+
+%miközben a korrupt funkcionáriusok minden kötelességük teljesítéséért pénzt csikarnak ki belőle .
+ki	csikarnak	-	-
+ki	csikarnak	-	-
+belőle	csikarnak	-	-
+ki	csikarnak	-	-
+
+%hogy ne reménykedhessek tovább !
+-	reménykedhessek	-	-
+-	reménykedhessek	-	-
+-	reménykedhessek	-	-
+tovább	reménykedhessek	-	-
+
+%hogy hány millióan is dolgoznak ott valahol Keleten ,
+-	dolgoznak	-	-
+-	dolgoznak	-	-
+-	dolgoznak	-	-
+ott	dolgoznak	-	-
+
+%küldését kezdi meg a SMS-ben és WAP-on .
+meg	kezdi	-	-
+meg	kezdi	-	-
+meg	kezdi	-	-
+-	kezdi	-	-
+
+%Armstrong korábbi UCI-elnököt mártott be doppingbotrányában EGYÉB SPORTOK 14:30 -
+be	mártott	-	-
+be	mártott	-	-
+be	mártott	-	-
+be	mártott	-	-
+
+%10 Körbefonva A francia fonásról az első hivatkozás egy francia női magazinban 1871-ben jelent meg ,
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+
+%vagy legalábbis vétkeket követ el ,
+el	követ	-	-
+el	követ	-	-
+el	követ	-	-
+el	követ	-	-
+
+%de nem foglalkoztatottak között 35 és fél millió forintot osztottak szét .
+szét	osztottak	-	-
+szét	osztottak	-	-
+-	osztottak	-	-
+szét	osztottak	-	-
+
+%hogy az interpellációkat követően tárgyalásra készítsék elő az előterjesztést .
+elő	készítsék	-	-
+elő	készítsék	-	-
+elő	készítsék	-	-
+elő	készítsék	-	-
+
+%korszakát dolgozza fel a Napkirálynak ,
+fel	dolgozza	-	-
+fel	dolgozza	-	-
+fel	dolgozza	-	-
+fel	dolgozza	-	-
+
+%úgysem fogjuk megérteni egymást .
+-	fogjuk	meg	érteni
+-	fogjuk	meg	érteni
+-	fogjuk	-	megérteni
+-	fogjuk	-	megérteni
+
+%jól behatárolható éghajlati övezetet foglalnak el a hűvös mérsékelt övi lombhullató erdők és a mediterrán éghajlatra jellemző ,
+el	foglalnak	-	-
+el	foglalnak	-	-
+el	foglalnak	-	-
+el	foglalnak	-	-
+
+%Új életet próbált kezdeni .
+-	próbált	-	kezdeni
+-	próbált	-	kezdeni
+-	próbált	-	kezdeni
+-	próbált	-	kezdeni
+
+%Budapest viszont úgy ítéli meg ,
+meg	ítéli	-	-
+meg	ítéli	-	-
+meg	ítéli	-	-
+meg	ítéli	-	-
+
+%Hát csak tárd fel a füled és légy háládatos a tanár úrnak ,
+fel	tárd	-	-
+fel	tárd	-	-
+-	légy	-	-
+fel	tárd	-	-
+
+%hogy változást és új irányt szeretnék elérni ,
+-	szeretnék	el	érni
+-	szeretnék	el	érni
+-	szeretnék	-	elérni
+-	szeretnék	-	elérni
+
+%De ha ezt nem adjuk meg nekik ,
+meg	adjuk	-	-
+meg	adjuk	-	-
+meg	adjuk	-	-
+meg	adjuk	-	-
+
+%Végtére is az elefántokat nem tilthatjuk ki az útról ,
+ki	tilthatjuk	-	-
+ki	tilthatjuk	-	-
+ki	tilthatjuk	-	-
+ki	tilthatjuk	-	-
+
+%Egy harmadik diák is megpróbál válaszolni :
+meg	próbál	-	válaszolni
+meg	próbál	-	válaszolni
+-	megpróbál	-	válaszolni
+-	megpróbál	-	válaszolni
+
+%A legfrissebb adatok szerint idén az első negyedévben csaknem 14 ezer új autót sikerült eladni itthon -
+-	sikerült	el	adni
+-	sikerült	el	adni
+-	sikerült	-	eladni
+-	sikerült	-	eladni
+
+%a szemétszállítás költségeit ossza szét a tulajdonosok között ,
+szét	ossza	-	-
+szét	ossza	-	-
+-	ossza	-	-
+szét	ossza	-	-
+
+%Csák Imre cégét a képviselő-testület ellentétes pártállású frakciói együttesen választották ki .
+ki	választották	-	-
+ki	választották	-	-
+ki	választották	-	-
+ki	választották	-	-
+
+%tehát inkább terméket kellene népszerűsítenie .
+-	kellene	-	népszerűsítenie
+-	kellene	-	népszerűsítenie
+-	kellene	-	népszerűsítenie
+-	kellene	-	népszerűsítenie
+
+%és kerítsd elő a jobbomat .
+elő	kerítsd	-	-
+elő	kerítsd	-	-
+elő	kerítsd	-	-
+elő	kerítsd	-	-
+
+%de az erőm még nem hagyott így el .
+el	hagyott	-	-
+el	hagyott	-	-
+el	hagyott	-	-
+el	hagyott	-	-
+
+%hogy melyik megállóban kell a villamosnak illetve a 3-62V potlónak bevárnia a másik járatot ?
+-	kell	be	várnia
+-	kell	be	várnia
+-	kell	-	bevárnia
+-	kell	-	bevárnia
+
+%a Manhattan név alá nem lehet odahelyezni ezeket .
+-	lehet	oda	helyezni
+-	lehet	oda	helyezni
+-	lehet	-	odahelyezni
+-	lehet	-	odahelyezni
+
+%A 104-es busszal lehet legjobban megközelíteni tömegközlekedéssel ,
+-	lehet	meg	közelíteni
+-	lehet	meg	közelíteni
+-	lehet	-	megközelíteni
+-	lehet	-	megközelíteni
+
+%fiatal asszonyok meg vannak mosva ,
+-	vannak	-	-
+-	vannak	-	-
+-	vannak	-	-
+-	vannak	-	-
+
+%sőt lassan már el vagyunk kényeztetve ,
+-	vagyunk	-	-
+-	vagyunk	-	-
+-	vagyunk	-	-
+-	vagyunk	-	-
+
+%miközben éppen ez mozgatja meg a befektetők fantáziáját ,
+meg	mozgatja	-	-
+meg	mozgatja	-	-
+meg	mozgatja	-	-
+meg	mozgatja	-	-
+
+%ő ezt azonban nem fogadta el .
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+
+%hogy ezekben a globális városokban mennyivel több pénzügyi intézmény települt meg mint másutt és mennyivel nagyobb a pénzügyi szolgáltatások szektorában dolgozók aránya .
+meg	települt	-	-
+meg	települt	-	-
+meg	települt	-	-
+meg	települt	-	-
+
+%amely szektort világszerte általában csak az elmúlt években kezdtek meg privatizálni .
+meg	kezdtek	-	privatizálni
+meg	kezdtek	-	privatizálni
+meg	kezdtek	-	privatizálni
+-	kezdtek	meg	privatizálni
+
+%képzeli el a tanácsot ,
+el	képzeli	-	-
+el	képzeli	-	-
+el	képzeli	-	-
+el	képzeli	-	-
+
+%a tigrissel és tol ki .
+ki	tol	-	-
+ki	tol	-	-
+ki	tol	-	-
+ki	tol	-	-
+
+%vagy az állampapírok helyére léptessék oda a Nemzetközi Valutaalap (
+oda	léptessék	-	-
+oda	léptessék	-	-
+oda	léptessék	-	-
+oda	léptessék	-	-
+
+%hogy csak meg kell várni ,
+-	kell	meg	várni
+-	kell	meg	várni
+-	kell	meg	várni
+-	kell	meg	várni
+
+%mondta el az ügyvéd .
+el	mondta	-	-
+el	mondta	-	-
+el	mondta	-	-
+el	mondta	-	-
+
+%A községi intézmények magukra hagyatva alig tudnák felvenni a harcot -
+-	tudnák	fel	venni
+-	tudnák	fel	venni
+-	tudnák	-	felvenni
+-	tudnák	-	felvenni
+
+%fejlesztése az érfal mintázatát olvassa le ,
+le	olvassa	-	-
+le	olvassa	-	-
+le	olvassa	-	-
+le	olvassa	-	-
+
+%hogy népszavazást írjanak ki a parkolás kérdésében ,
+ki	írjanak	-	-
+ki	írjanak	-	-
+ki	írjanak	-	-
+ki	írjanak	-	-
+
+%D Amúgy el tudtuk .
+-	tudtuk	-	-
+-	tudtuk	-	-
+-	tudtuk	-	-
+-	tudtuk	-	-
+
+%Ezzel olyan feszült hangulatot hoztak létre a teljes parancsnoki állományban ,
+létre	hoztak	-	-
+létre	hoztak	-	-
+létre	hoztak	-	-
+létre	hoztak	-	-
+
+%de szeretkezni nem tudnék vele ,
+-	tudnék	-	szeretkezni
+-	tudnék	-	szeretkezni
+-	tudnék	-	szeretkezni
+-	tudnék	-	szeretkezni
+
+%E megállapodás keretében ürítették ki az izraeliek 19-én Betlehemet .
+ki	ürítették	-	-
+ki	ürítették	-	-
+ki	ürítették	-	-
+ki	ürítették	-	-
+
+%kívülálló magatartásának bemutatása során bizonyosodik be .
+be	bizonyosodik	-	-
+be	bizonyosodik	-	-
+be	bizonyosodik	-	-
+be	bizonyosodik	-	-
+
+%A következő részleteit nem szeretném felsorolni ,
+-	szeretném	fel	sorolni
+-	szeretném	fel	sorolni
+-	szeretném	-	felsorolni
+-	szeretném	-	felsorolni
+
+%két évvel később a manilai világbajnoki zónaközi döntőről holtversenyes harmadikként jutott tovább .
+tovább	jutott	-	-
+tovább	jutott	-	-
+-	jutott	-	-
+tovább	jutott	-	-
+
+%Már nem fért be 5 percbe ...
+be	fért	-	-
+be	fért	-	-
+be	fért	-	-
+be	fért	-	-
+
+%Miért nem hívták oda a gárdát az eset után ,
+oda	hívták	-	-
+oda	hívták	-	-
+oda	hívták	-	-
+oda	hívták	-	-
+
+%Régi álmunk valósult meg itt ezekkel a pályázatos nyerésekkel ,
+meg	valósult	-	-
+meg	valósult	-	-
+meg	valósult	-	-
+meg	valósult	-	-
+
+%reszeljük rá a fokhagymát ,
+rá	reszeljük	-	-
+rá	reszeljük	-	-
+rá	reszeljük	-	-
+rá	reszeljük	-	-
+
+%Nevezni érvényes versenyzőlicenccel lehet (
+-	lehet	-	nevezni
+-	lehet	-	nevezni
+-	lehet	-	nevezni
+-	lehet	-	nevezni
+
+%hogy meg tudjuk őket menteni !
+-	tudjuk	meg	menteni
+-	tudjuk	meg	menteni
+-	tudjuk	meg	menteni
+-	tudjuk	meg	menteni
+
+%A Csáky úr által elmondottakhoz azért szeretném megerősíteni újra ,
+-	szeretném	meg	erősíteni
+-	szeretném	meg	erősíteni
+-	szeretném	-	megerősíteni
+-	szeretném	-	megerősíteni
+
+%ha a 25 Mb-set nem tudja biztosítani .
+-	tudja	-	biztosítani
+-	tudja	-	biztosítani
+-	tudja	-	biztosítani
+-	tudja	-	biztosítani
+
+%fűzte hozzá az NFM .
+hozzá	fűzte	-	-
+hozzá	fűzte	-	-
+hozzá	fűzte	-	-
+hozzá	fűzte	-	-
+
+%elvégre az elmúlt évtizedekben számtalanszor lehetett hallani ,
+-	lehetett	-	hallani
+-	lehetett	-	hallani
+-	lehetett	-	hallani
+-	lehetett	-	hallani
+
+%Pettkó András felállva köszöni meg a tapsot .
+meg	köszöni	-	-
+meg	köszöni	-	-
+meg	köszöni	-	-
+meg	köszöni	-	-
+
+%hogy a költségeket ma még megbecsülni sem lehet ,
+-	lehet	meg	becsülni
+-	lehet	meg	becsülni
+-	lehet	-	megbecsülni
+-	lehet	-	megbecsülni
+
+%mert egy versenytárstól szabadulna meg ,
+meg	szabadulna	-	-
+meg	szabadulna	-	-
+meg	szabadulna	-	-
+meg	szabadulna	-	-
+
+%Egycsatáros játékkal próbált meg sikert elérni a Celtic Milánóban ,
+meg	próbált	el	érni
+meg	próbált	el	érni
+meg	próbált	-	elérni
+-	próbált	-	elérni
+
+%hiszen a kettő nem zárja ki egymást .
+ki	zárja	-	-
+ki	zárja	-	-
+ki	zárja	-	-
+ki	zárja	-	-
+
+%annak sokkal jobban tudok örülni .
+-	tudok	-	örülni
+-	tudok	-	örülni
+-	tudok	-	örülni
+-	tudok	-	örülni
+
+%nem is tettük fel ,
+fel	tettük	-	-
+fel	tettük	-	-
+fel	tettük	-	-
+fel	tettük	-	-
+
+%A kristályvirágfélékkel is vigyázni kell ,
+-	kell	-	vigyázni
+-	kell	-	vigyázni
+-	kell	-	vigyázni
+-	kell	-	vigyázni
+
+%hogy a Cinemax sorozatoktól megszokottan ebben sem zárkóznak el a meztelenkedéstől .
+el	zárkóznak	-	-
+el	zárkóznak	-	-
+el	zárkóznak	-	-
+el	zárkóznak	-	-
+
+%ennél ugyanis több tiszteletet szoktam tanúsítani azok iránt ,
+-	szoktam	-	tanúsítani
+-	szoktam	-	tanúsítani
+-	szoktam	-	tanúsítani
+-	szoktam	-	tanúsítani
+
+%arra próbálunk választ adni ,
+-	próbálunk	-	adni
+-	próbálunk	-	adni
+-	próbálunk	-	adni
+-	próbálunk	-	adni
+
+%nemigen tudott időt szakítani rá ,
+-	tudott	-	szakítani
+-	tudott	-	szakítani
+-	tudott	rá	szakítani
+-	tudott	-	szakítani
+
+%akkor egy nagyobb városban egy sörözést vagy akár egy focimeccset is meg tud szervezni .
+-	tud	meg	szervezni
+-	tud	meg	szervezni
+-	tud	meg	szervezni
+-	tud	meg	szervezni
+
+%A gyülekezetből is ki vagyok purifikálva .
+-	vagyok	-	-
+-	vagyok	-	-
+ki	vagyok	-	-
+-	vagyok	-	-
+
+%Ehhez nem kívánok különösebb kiegészítést tenni .
+-	kívánok	-	tenni
+-	kívánok	-	tenni
+-	kívánok	-	tenni
+-	kívánok	-	tenni
+
+%egy megadott folder-be ment )
+-	ment	-	-
+-	ment	-	-
+-	ment	-	-
+folder-be	ment	-	-
+
+%hogy EU csak akkor fog beavatkozni a mi intézményeink működésébe ,
+-	fog	be	avatkozni
+-	fog	be	avatkozni
+-	fog	-	beavatkozni
+-	fog	-	beavatkozni
+
+%de ezt nem csak SMS-ben lehet megtenni ,
+-	lehet	meg	tenni
+-	lehet	meg	tenni
+-	lehet	-	megtenni
+-	lehet	-	megtenni
+
+%hogy a nyála ki tudjon csorogni ,
+-	tudjon	ki	csorogni
+-	tudjon	ki	csorogni
+-	tudjon	ki	csorogni
+-	tudjon	ki	csorogni
+
+%Miután minden lényeges döntést ekkor fognak meghozni ,
+-	fognak	meg	hozni
+-	fognak	meg	hozni
+-	fognak	-	meghozni
+-	fognak	-	meghozni
+
+%Noha nem elég korrekt úton jött be ,
+be	jött	-	-
+be	jött	-	-
+be	jött	-	-
+be	jött	-	-
+
+%mert a hozzá fűződik az fenntarthatóság fogalmának megalapozása .
+-	fűződik	-	-
+-	fűződik	-	-
+-	fűződik	-	-
+hozzá	fűződik	-	-
+
+%fiókban is befizetni voltam csak .
+-	voltam	be	fizetni
+-	voltam	be	fizetni
+-	voltam	-	befizetni
+-	voltam	-	befizetni
+
+%hogy van mit titkolnunk .
+-	van	-	-
+-	van	-	titkolnunk
+-	van	-	titkolnunk
+-	van	-	titkolnunk
+
+%amelyeken számos első és második helyezést érnek el .
+el	érnek	-	-
+el	érnek	-	-
+el	érnek	-	-
+el	érnek	-	-
+
+%hogy a Jóisten ne adjon bele bajt ,
+bele	adjon	-	-
+bele	adjon	-	-
+bele	adjon	-	-
+bele	adjon	-	-
+
+%után amúgy is ideje volna kissé lassítanunk ,
+-	volna	-	lassítanunk
+-	volna	-	lassítanunk
+-	volna	-	lassítanunk
+-	volna	-	lassítanunk
+
+%Ilyenkor levelet tetszik írni ,
+-	tetszik	-	írni
+-	tetszik	-	írni
+-	tetszik	-	írni
+-	tetszik	-	írni
+
+%akkor csodálatos kombinációt fog alkotni !
+-	fog	-	alkotni
+-	fog	-	alkotni
+-	fog	-	alkotni
+-	fog	-	alkotni
+
+%ha ez a megállapodás nem születik meg ,
+meg	születik	-	-
+meg	születik	-	-
+meg	születik	-	-
+meg	születik	-	-
+
+%A 14-ből 8 ilyen céget határoztunk meg ,
+meg	határoztunk	-	-
+meg	határoztunk	-	-
+meg	határoztunk	-	-
+meg	határoztunk	-	-
+
+%egy idő után át tudja adni ujjait az angyalának ...
+-	tudja	át	adni
+-	tudja	át	adni
+-	tudja	át	adni
+-	tudja	át	adni
+
+%nincs kedved folytatni a mesketét ?
+-	nincs	-	folytatni
+-	nincs	-	folytatni
+-	nincs	-	folytatni
+-	nincs	-	folytatni
+
+%jegyezte meg Révész Máriusz .
+meg	jegyezte	-	-
+meg	jegyezte	-	-
+meg	jegyezte	-	-
+meg	jegyezte	-	-
+
+%Ötévesen kezdett el csellózni ,
+el	kezdett	-	csellózni
+el	kezdett	-	csellózni
+el	kezdett	-	csellózni
+-	kezdett	el	csellózni
+
+%majd Kleopátrát és Mária Magdalénát vállaltam el .
+el	vállaltam	-	-
+el	vállaltam	-	-
+el	vállaltam	-	-
+el	vállaltam	-	-
+
+%Dusán István vonult be a városba .
+be	vonult	-	-
+be	vonult	-	-
+be	vonult	-	-
+be	vonult	-	-
+
+%Hogyan tudom egyszerre az összes levelemet letörölni ?
+-	tudom	le	törölni
+-	tudom	le	törölni
+-	tudom	-	letörölni
+-	tudom	-	letörölni
+
+%Az idős asszony azért ment fel az emeletre ,
+fel	ment	-	-
+fel	ment	-	-
+fel	ment	-	-
+fel	ment	-	-
+
+%játékosai azután érdemelték ki a dicséretet ,
+ki	érdemelték	-	-
+ki	érdemelték	-	-
+ki	érdemelték	-	-
+ki	érdemelték	-	-
+
+%jelentette ki a nemzetközi valutaalap illetékese .
+ki	jelentette	-	-
+ki	jelentette	-	-
+ki	jelentette	-	-
+ki	jelentette	-	-
+
+%törölni kell például a hazai vállalkozásokra vonatkozó preferenciális szabályokat .
+-	kell	-	törölni
+-	kell	-	törölni
+-	kell	-	törölni
+-	kell	-	törölni
+
+%A másik oldalról pedig azt kellene megnézni ,
+-	kellene	meg	nézni
+-	kellene	meg	nézni
+-	kellene	-	megnézni
+-	kellene	-	megnézni
+
+%miszerint a kabinet a stratégiai ágazatokban növelni kívánja részesedését -
+-	kívánja	-	növelni
+-	kívánja	-	növelni
+-	kívánja	-	növelni
+-	kívánja	-	növelni
+
+%A városi nemesség tehát már nem tudta lázítani a köznépet a dózse és az új rendszer ellen ,
+-	tudta	-	lázítani
+-	tudta	-	lázítani
+-	tudta	-	lázítani
+-	tudta	-	lázítani
+
+%hogy a kormányzat területfejlesztési politikájában és annak szándékai érvényesítésében a területfejlesztési törvény és a nemzeti területfejlesztési koncepció irányelvei fogalmazódnak meg .
+meg	fogalmazódnak	-	-
+meg	fogalmazódnak	-	-
+meg	fogalmazódnak	-	-
+meg	fogalmazódnak	-	-
+
+%adjuk hozzá a finomra összevágott vöröshagymát ,
+hozzá	adjuk	-	-
+hozzá	adjuk	-	-
+hozzá	adjuk	-	-
+hozzá	adjuk	-	-
+
+%hogy ne kelljen elhasználnia egy szett lágy gumit .
+-	kelljen	el	használnia
+-	kelljen	el	használnia
+-	kelljen	-	elhasználnia
+-	kelljen	-	elhasználnia
+
+%nem kell előzetes írásbeli nyilatkozatot kérni olyan feldolgozóktól ,
+-	kell	-	kérni
+-	kell	-	kérni
+-	kell	-	kérni
+-	kell	-	kérni
+
+%korábban felvett adósságot megújítani és ezt a részbeni megújítás és a tényleges megújítási igény közötti különbözetet ebből a nemzetközi hitelcsomagból pótoljuk .
+-	pótoljuk	-	-
+-	pótoljuk	-	-
+-	pótoljuk	-	megújítani
+-	pótoljuk	-	megújítani
+
+%mert Murdoch médiabirodalmának alkalmazottai állítólag le akartak fizetni egy New York-i rendőrtisztet ,
+-	akartak	le	fizetni
+-	akartak	le	fizetni
+-	akartak	le	fizetni
+-	akartak	le	fizetni
+
+%Orbán három okból is szabadulni akar ettől az közösségtől :
+-	akar	-	szabadulni
+-	akar	-	szabadulni
+-	akar	-	szabadulni
+-	akar	-	szabadulni
+
+%a havernak meg rendben tartott kazánja van ,
+-	van	-	-
+meg	van	-	-
+-	van	-	-
+-	van	-	-
+
+%A műsorterjesztés terén egyes audiovizuális szolgáltatások nyújtására irányuló közbeszerzési szerződések odaítélése során lehetőséget kell biztosítani olyan kulturális és társadalmi jelentőségű szempontok figyelembevételére ,
+-	kell	-	biztosítani
+-	kell	-	biztosítani
+-	kell	-	biztosítani
+-	kell	-	biztosítani
+
+%Potyázni nincs kedvem rajta ,
+-	nincs	-	potyázni
+-	nincs	-	potyázni
+-	nincs	-	potyázni
+-	nincs	-	potyázni
+
+%Fifikás dokumentumfilm röppent ki a Taviani testvérek kezei közül ,
+ki	röppent	-	-
+ki	röppent	-	-
+ki	röppent	-	-
+ki	röppent	-	-
+
+%hogy az egész hétvége során nélkülöznöm kell a kormányrásegítést ,
+-	kell	-	nélkülöznöm
+-	kell	-	nélkülöznöm
+-	kell	-	nélkülöznöm
+-	kell	-	nélkülöznöm
+
+%Népünnep Az Oktoberfest története egészen 1810-ig nyúlik vissza .
+vissza	nyúlik	-	-
+vissza	nyúlik	-	-
+vissza	nyúlik	-	-
+vissza	nyúlik	-	-
+
+%Egyébként a törvény is ezt írja elő ,
+elő	írja	-	-
+elő	írja	-	-
+elő	írja	-	-
+elő	írja	-	-
+
+%Bűncselekményt követ el ,
+el	követ	-	-
+el	követ	-	-
+el	követ	-	-
+el	követ	-	-
+
+%illetve eredményesen tudja azt felderíteni .
+-	tudja	fel	deríteni
+-	tudja	fel	deríteni
+-	tudja	-	felderíteni
+-	tudja	-	felderíteni
+
+%akkor már joggal vonhatja le azt a következtetést ,
+le	vonhatja	-	-
+le	vonhatja	-	-
+le	vonhatja	-	-
+le	vonhatja	-	-
+
+%a tervben nem jelöltek meg elég fedezetet a kiadásokra -
+meg	jelöltek	-	-
+meg	jelöltek	-	-
+-	-	-	-
+meg	jelöltek	-	-
+
+%A Pannon GSM munkatársai március végére fejezik be a Tesco áruházainak és kiszolgáló létesítményeinek teljes mobilosítását ;
+be	fejezik	-	-
+be	fejezik	-	-
+be	fejezik	-	-
+be	fejezik	-	-
+
+%A rendőrségnek meg szólni ugyan lehet ,
+-	lehet	-	szólni
+-	lehet	-	szólni
+-	lehet	-	szólni
+-	lehet	meg	szólni
+
+%de ez soha nem fog megtörténni ,
+-	fog	meg	történni
+-	fog	meg	történni
+-	fog	-	megtörténni
+-	fog	-	megtörténni
+
+%Ezért most csak az említett strófát nézzük meg jobban ,
+meg	nézzük	-	-
+meg	nézzük	-	-
+meg	nézzük	-	-
+meg	nézzük	-	-
+
+%Az igazsághoz viszont az is hozzá tartozik ,
+-	tartozik	-	-
+-	tartozik	-	-
+hozzá	tartozik	-	-
+hozzá	tartozik	-	-
+
+%valamint a szellemi termékre vonatkozó korlátozott felhasználási jog megszerzése között áll fenn .
+fenn	áll	-	-
+fenn	áll	-	-
+fenn	áll	-	-
+fenn	áll	-	-
+
+%Forróság járt át ,
+át	járt	-	-
+át	járt	-	-
+-	járt	-	-
+át	járt	-	-
+
+%a világnappal az egyház a legszélesebb körben szeretné felhívni a figyelmet az egészségügyben végzett lelkipásztori szolgálat fontosságára .
+-	szeretné	fel	hívni
+-	szeretné	fel	hívni
+-	szeretné	-	felhívni
+-	szeretné	-	felhívni
+
+%Ilyenkor minél hamarabb el kell hagyni a szobát ,
+-	kell	el	hagyni
+-	kell	el	hagyni
+-	kell	el	hagyni
+-	kell	el	hagyni
+
+%biztosítónál is be kell jelenteni akkor
+-	kell	be	jelenteni
+-	kell	be	jelenteni
+-	kell	be	jelenteni
+-	kell	be	jelenteni
+
+%alig bírjuk nyitva tartani a szemünket .
+-	bírjuk	-	tartani
+-	bírjuk	-	tartani
+-	bírjuk	-	tartani
+-	bírjuk	-	tartani
+
+%a pihenőhelyet újítják fel ,
+fel	újítják	-	-
+fel	újítják	-	-
+fel	újítják	-	-
+fel	újítják	-	-
+
+%mivel az Országgyűlés ősszel választja meg az Országos Rádió és Televízió Testület (
+meg	választja	-	-
+meg	választja	-	-
+meg	választja	-	-
+meg	választja	-	-
+
+%A Nemzethalált nem lehet kizárólag a szaporodással megoldani .
+-	lehet	meg	oldani
+-	lehet	meg	oldani
+-	lehet	-	megoldani
+-	lehet	-	megoldani
+
+%eredményeit azáltal éri el ,
+el	éri	-	-
+el	éri	-	-
+el	éri	-	-
+el	éri	-	-
+
+%Az elmúlt három hétben Conte nem találta meg a csapat szebbik arcát ,
+meg	találta	-	-
+meg	találta	-	-
+meg	találta	-	-
+-	találta	-	-
+
+%mert minden feszültséget így vezetek le .
+le	vezetek	-	-
+le	vezetek	-	-
+le	vezetek	-	-
+le	vezetek	-	-
+
+%emiatt normál tempóban jött ki a pályáról .
+ki	jött	-	-
+ki	jött	-	-
+ki	jött	-	-
+ki	jött	-	-
+
+%a válaszadók 81 százaléka értett egyet .
+egyet	értett	-	-
+egyet	értett	-	-
+egyet	értett	-	-
+egyet	értett	-	-
+
+%ugyan csak ajándékot akartak vinni nekik ,
+-	akartak	-	vinni
+-	akartak	-	vinni
+-	akartak	-	vinni
+-	akartak	-	vinni
+
+%erre csak azt lehet mondani ,
+-	lehet	-	mondani
+-	lehet	-	mondani
+-	lehet	-	mondani
+-	lehet	-	mondani
+
+%az egyetlen telefonra eső standarderedő zajt -2.0 pW alá tudták csökkenteni csoportmunkára támaszkodva .
+-	tudták	-	csökkenteni
+-	tudták	-	csökkenteni
+-	tudták	-	csökkenteni
+-	tudták	alá	csökkenteni
+
+%az anyanyelvi ismérv szerint igyekeztünk meghatározni .
+-	igyekeztünk	meg	határozni
+-	igyekeztünk	meg	határozni
+-	igyekeztünk	-	meghatározni
+-	igyekeztünk	-	meghatározni
+
+%de elérkeztünk oda ,
+el	érkeztünk	-	-
+el	érkeztünk	-	-
+-	elérkeztünk	-	-
+-	elérkeztünk	-	-
+
+%de a gondozóik rá tudták őket venni ,
+-	tudták	-	venni
+-	tudták	-	venni
+-	tudták	rá	venni
+-	tudták	-	venni
+
+%A jogőr szerint a következő népszámlás előtti jogalkotásnál rögzíteni kell ,
+-	kell	-	rögzíteni
+-	kell	-	rögzíteni
+-	kell	-	rögzíteni
+-	kell	-	rögzíteni
+
+%hogy a pályázat nélküli kinevezés kapcsán az Országgyűlés kulturális bizottságának ellenőrző albizottsága meg kívánta hallgatni a ORTT kormánypárti tagjait és elnökét ,
+-	kívánta	meg	hallgatni
+-	kívánta	meg	hallgatni
+-	kívánta	meg	hallgatni
+-	kívánta	meg	hallgatni
+
+%ha épp akkor ment el mellettük egy másik rab az őreivel ,
+el	ment	-	-
+el	ment	-	-
+el	ment	-	-
+el	ment	-	-
+
+%még a híres kis Beöthyben is csak egy-egy emlékeztető szót húztunk alá .
+alá	húztunk	-	-
+alá	húztunk	-	-
+-	húztunk	-	-
+alá	húztunk	-	-
+
+%a köztes állásokat ki kell következtetni a szomszédosakból ,
+-	kell	ki	következtetni
+-	kell	ki	következtetni
+-	kell	ki	következtetni
+-	kell	ki	következtetni
+
+%5 Énókot a hite miatt emelte fel Isten magához a földről .
+fel	emelte	-	-
+fel	emelte	-	-
+fel	emelte	-	-
+fel	emelte	-	-
+
+%az értékelő bizottság a pályázatokat legkésőbb 15-éig bírálja el -
+el	bírálja	-	-
+el	bírálja	-	-
+el	bírálja	-	-
+el	bírálja	-	-
+
+%hogy az árverésen majd sikerül megvennem .
+-	sikerül	meg	vennem
+-	sikerül	meg	vennem
+-	sikerül	-	-
+-	sikerül	-	megvennem
+
+%hogy az Országgyűlés Hivatala és az Országgyűlési Őrség egyenruhás állománya nem lépett fel a szabálysértőkkel szemben ,
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+fel	lépett	-	-
+
+%hogy kerüljön le a segédtankönyvek -
+le	kerüljön	-	-
+le	kerüljön	-	-
+le	kerüljön	-	-
+le	kerüljön	-	-
+
+%Pénz pénz pénz kell hozzá ...
+-	kell	-	-
+-	kell	-	-
+hozzá	kell	-	-
+-	kell	-	-
+
+%Elmondása szerint példát akar mutatni egyetlen fiúgyermekének .
+-	akar	-	mutatni
+-	akar	-	mutatni
+-	akar	-	mutatni
+-	akar	-	mutatni
+
+%szereti szabadságolni a bal lábát a dugókkal sújtott utakon .
+-	szereti	-	szabadságolni
+-	szereti	-	szabadságolni
+-	szereti	-	szabadságolni
+-	szereti	-	szabadságolni
+
+%hogy a 24 órás vezetői visszahívásnak ma du. 5 órakor már a 48 órája telik le a leadás óta ,
+le	telik	-	-
+le	telik	-	-
+le	telik	-	-
+le	telik	-	-
+
+%Adjátok neki vissza -
+vissza	adjátok	-	-
+neki	adjátok	-	-
+vissza	adjátok	-	-
+neki	adjátok	-	-
+
+%úgy írták alá :
+alá	írták	-	-
+alá	írták	-	-
+alá	írták	-	-
+alá	írták	-	-
+
+%Csillagporból szemezgetni A világűrben tetemes mennyiségben előforduló kozmikus por rendkívül fontos szerepet játszik a csillagok ,
+-	játszik	-	-
+-	játszik	-	-
+-	játszik	-	szemezgetni
+-	játszik	-	szemezgetni
+
+%hogy bizonyos szolgáltatások áfáját a tagállamok a felső kulcsból a kedvezményes kulcsba vihetik le .
+le	vihetik	-	-
+le	vihetik	-	-
+le	vihetik	-	-
+le	vihetik	-	-
+
+%derítette ki egy nemzetközi kutatócsoport Erdélyi Róbert ,
+ki	derítette	-	-
+ki	derítette	-	-
+ki	derítette	-	-
+ki	derítette	-	-
+
+%fuss el véle ,
+el	fuss	-	-
+el	fuss	-	-
+véle	fuss	-	-
+el	fuss	-	-
+
+%azok között egy 100 ezer forint értékű adományozási lehetőséget sorsolnak ki .
+ki	sorsolnak	-	-
+ki	sorsolnak	-	-
+ki	sorsolnak	-	-
+ki	sorsolnak	-	-
+
+%Művét Szabados Béla zenésítette meg .
+meg	zenésítette	-	-
+meg	zenésítette	-	-
+meg	zenésítette	-	-
+meg	zenésítette	-	-
+
+%és ne merészeld azt mondani ,
+-	merészeld	-	mondani
+-	merészeld	-	mondani
+-	merészeld	-	mondani
+-	merészeld	-	mondani
+
+%Ezt álláspontunk szerint nehéz lesz teljesíteni akkor ,
+-	lesz	-	teljesíteni
+-	lesz	-	teljesíteni
+-	lesz	-	teljesíteni
+-	lesz	-	teljesíteni
+
+%de műegésszé csak akkor állnak össze ,
+össze	állnak	-	-
+össze	állnak	-	-
+össze	állnak	-	-
+össze	állnak	-	-
+
+%esküjét 5-én tette le .
+le	tette	-	-
+le	tette	-	-
+le	tette	-	-
+le	tette	-	-
+
+%és természetesen sírni sem tudtam .
+-	tudtam	-	sírni
+-	tudtam	-	sírni
+-	tudtam	-	sírni
+-	tudtam	-	sírni
+
+%ugyanakkor viszont nem mindegyiknek fogják utána a kezét .
+-	fogják	-	-
+-	fogják	-	-
+-	fogják	-	-
+-	fogják	-	-
+
+%táblára akarták kicserélni a jókedvű barátok .
+-	akarták	ki	cserélni
+-	akarták	ki	cserélni
+-	akarták	-	kicserélni
+-	akarták	-	kicserélni
+
+%ezt az alaphelyzetet fogadta el ténynek .
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+el	fogadta	-	-
+
+%mérsékelt övi esőerdőket alakítanak ki .
+ki	alakítanak	-	-
+ki	alakítanak	-	-
+ki	alakítanak	-	-
+ki	alakítanak	-	-
+
+%az euró bevezetésének évében kapta meg a közgazdasági Nobel-díjat a monetáris dinamikával és az optimális valutaövezetekkel kapcsolatos elméletéért .
+meg	kapta	-	-
+meg	kapta	-	-
+meg	kapta	-	-
+meg	kapta	-	-
+
+%Tőlük is mást fogsz hallani .
+-	fogsz	-	hallani
+-	fogsz	-	hallani
+-	fogsz	-	hallani
+-	fogsz	-	hallani
+
+%a crack segített tompítani a félelmet ,
+-	segített	-	tompítani
+-	segített	-	tompítani
+-	segített	-	tompítani
+-	segített	-	tompítani
+
+%amikor a felperzselt legelőkön ezrével hullottak el az állatok ,
+el	hullottak	-	-
+el	hullottak	-	-
+el	hullottak	-	-
+el	hullottak	-	-
+
+%Meg nem erősített információ szerint öngyilkos merénylő robbantotta fel a járművet az Oroszországhoz tartozó Dagesztán déli részén fekvő településen .
+fel	robbantotta	-	-
+fel	robbantotta	-	-
+fel	robbantotta	-	-
+fel	robbantotta	-	-
+
+%más meg mostanság nem nagyon villog .
+-	villog	-	-
+-	villog	-	-
+-	villog	-	-
+meg	villog	-	-
+
+%Csak remélni lehet ,
+-	lehet	-	remélni
+-	lehet	-	remélni
+-	lehet	-	remélni
+-	lehet	-	remélni
+
+%a szarból nem lehet kánaánt csinálni 3-4 év alatt .
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+
+%az óriáscég úgy próbálja egyezkedési készségét demonstrálni ,
+-	próbálja	-	demonstrálni
+-	próbálja	-	demonstrálni
+-	próbálja	-	demonstrálni
+-	próbálja	-	demonstrálni
+
+%befejezzük végre a geodéziai munkákat ebben a térségben .
+be	fejezzük	-	-
+be	fejezzük	-	-
+-	befejezzük	-	-
+-	befejezzük	-	-
+
+%Nyolc kőlépcsőn lehetett oda lejutni ,
+-	lehetett	le	jutni
+-	lehetett	le	jutni
+-	lehetett	-	lejutni
+-	lehetett	-	lejutni
+
+%valljuk meg ,
+meg	valljuk	-	-
+meg	valljuk	-	-
+meg	valljuk	-	-
+meg	valljuk	-	-
+
+%ahol a H-pontot nem lehet a háromdimenziós H-pont vizsgáló eszközzel vagy eljárásokkal meghatározni ,
+-	lehet	meg	határozni
+-	lehet	meg	határozni
+-	lehet	-	meghatározni
+-	lehet	-	meghatározni
+
+%A tévhittel ellentétben lehet igazi basszust csinálni E30 asokba .
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+-	lehet	-	csinálni
+
+%fut át az agyamon ,
+át	fut	-	-
+át	fut	-	-
+-	fut	-	-
+át	fut	-	-
+
+%és egy katasztrófát akár ezer biztonsági őr sem tud megakadályozni .
+-	tud	meg	akadályozni
+-	tud	meg	akadályozni
+-	tud	-	megakadályozni
+-	tud	-	megakadályozni
+
+%ha a feldolgozást maradéktalanul végre tudja hajtani .
+-	tudja	végre	hajtani
+-	tudja	-	hajtani
+-	tudja	-	hajtani
+-	tudja	-	hajtani
+
+%Mire a háziak éppúgy kiáltottak fel ,
+fel	kiáltottak	-	-
+fel	kiáltottak	-	-
+fel	kiáltottak	-	-
+fel	kiáltottak	-	-
+
+%Emellett ügyelni kell a sajtóra is ,
+-	kell	-	ügyelni
+-	kell	-	ügyelni
+-	kell	-	ügyelni
+-	kell	-	ügyelni
+
+%Az elvileg tiltott szervizdíjat három üzletben számolták fel .
+fel	számolták	-	-
+fel	számolták	-	-
+fel	számolták	-	-
+fel	számolták	-	-
+
+%Ez alatt az idő alatt 68,7 milliárd forintot fektettek be Magyarországon ,
+be	fektettek	-	-
+be	fektettek	-	-
+be	fektettek	-	-
+be	fektettek	-	-
+
+%Ajkadnak csak szentséget és igazságot szabad szólnia !
+-	szabad	-	szólnia
+-	szabad	-	szólnia
+-	szabad	-	szólnia
+-	szabad	-	szólnia
+
+%AZ ÚR ÁLDJON MEG MINDENKIT GAZDAGON !!!
+meg	áldjon	-	-
+meg	áldjon	-	-
+-	áldjon	-	-
+meg	áldjon	-	-
+
+%mindössze 24 perc alatt nyerte meg 6-0-ra ,
+meg	nyerte	-	-
+meg	nyerte	-	-
+meg	nyerte	-	-
+meg	nyerte	-	-
+
+%az Országgyűlés alelnöke foglalja el .
+el	foglalja	-	-
+el	foglalja	-	-
+el	foglalja	-	-
+el	foglalja	-	-
+
+%és az ellenzéki pártok egy alternatívát kívánnak bemutatni .
+-	kívánnak	be	mutatni
+-	kívánnak	be	mutatni
+-	kívánnak	-	bemutatni
+-	kívánnak	-	bemutatni
+
+%hogyan találhatjuk meg e kérdésekre a válaszokat .
+meg	találhatjuk	-	-
+meg	találhatjuk	-	-
+meg	találhatjuk	-	-
+meg	találhatjuk	-	-
+
+%Más szolgáltatók sem akarnak számlát adni néhány tételről !
+-	akarnak	-	adni
+-	akarnak	-	adni
+-	akarnak	-	adni
+-	akarnak	-	adni
+
+%Közben nyilvánvaló rivalizálás indult meg a köztársaság leendő elnöki tisztségéért Nagy Ferenc és Tildy Zoltán között .
+meg	indult	-	-
+meg	indult	-	-
+meg	indult	-	-
+meg	indult	-	-
+
+%de egyre több civilszervezettel tudunk leülni és érdemi szakmai ügyekben egyeztetni .
+-	tudunk	le	ülni
+-	tudunk	le	ülni
+-	tudunk	-	leülni
+-	tudunk	-	leülni	-	egyeztetni
+
+%Talán előszőr magatokba kéne nézni és megkeresni a hibát ,
+-	kéne	-	nézni
+-	kéne	-	nézni
+-	kéne	-	nézni
+-	kéne	-	nézni	-	megkeresni
+
+%időzzünk el a kozep stílusdefinícióján .
+el	időzzünk	-	-
+el	időzzünk	-	-
+el	időzzünk	-	-
+el	időzzünk	-	-
+
+%a munkaadók és a munkaadók köttessék meg .
+meg	köttessék	-	-
+meg	köttessék	-	-
+meg	köttessék	-	-
+meg	köttessék	-	-
+
+%ott természetesen ugyanolyan akkreditációs eljáráson kell keresztülmenni ,
+-	kell	keresztül	menni
+-	kell	keresztül	menni
+-	kell	-	keresztülmenni
+-	kell	-	keresztülmenni
+
+%A stílusnak megfelelő doboláson kívül másra nem igazán tudom felhívni a figyelmet róla .
+-	tudom	fel	hívni
+-	tudom	fel	hívni
+-	tudom	-	felhívni
+-	tudom	-	felhívni
+
+%ha tizenkét év után nem akarnám lejátszani 300. meccsemet ,
+-	akarnám	le	játszani
+-	akarnám	le	játszani
+-	akarnám	-	lejátszani
+-	akarnám	-	lejátszani
+
+%Áldjon meg az Úr !
+meg	áldjon	-	-
+meg	áldjon	-	-
+meg	áldjon	-	-
+meg	áldjon	-	-
+
+%annál jobban sikerült nekik megosztani a magyarságot ,
+-	sikerült	meg	osztani
+-	sikerült	meg	osztani
+-	sikerült	-	megosztani
+-	sikerült	-	megosztani
+
+%a teszthez használt Dell laptoppal alapból nem volt hajlandó működni a wifi az Ubuntuval ,
+-	volt	-	-
+-	volt	-	működni
+-	volt	-	működni
+-	volt	-	működni
+
+%Nem tudtam megítélni ,
+-	tudtam	meg	ítélni
+-	tudtam	meg	ítélni
+-	tudtam	-	megítélni
+-	tudtam	-	megítélni
+
+%és 4,328 millió eurót tettek ki ,
+ki	tettek	-	-
+ki	tettek	-	-
+ki	tettek	-	-
+ki	tettek	-	-
+
+%Ám az nem derülhetett ki ,
+ki	derülhetett	-	-
+ki	derülhetett	-	-
+ki	derülhetett	-	-
+ki	derülhetett	-	-
+
+%vagy nem javasolta a hozzá fordulónak .
+-	javasolta	-	-
+-	javasolta	-	-
+-	javasolta	-	-
+hozzá	javasolta	-	-
+
+%ez egy pályázott programként el tud indulni .
+-	tud	el	indulni
+-	tud	el	indulni
+-	tud	el	indulni
+-	tud	el	indulni
+
+%Száz kilométeren át vonszolta elgázolt áldozatát
+-	vonszolta	-	-
+-	vonszolta	-	-
+-	vonszolta	-	-
+át	vonszolta	-	-
+
+%Tehát versenyezni fog az amerikaiakkal ,
+-	fog	-	versenyezni
+-	fog	-	versenyezni
+-	fog	-	versenyezni
+-	fog	-	versenyezni
+
+%akire eddig semmilyen terhelőt nem tudtak rábizonyítani .
+-	tudtak	rá	bizonyítani
+-	tudtak	rá	bizonyítani
+-	tudtak	-	rábizonyítani
+-	tudtak	-	rábizonyítani
+
+%Mindez örömmel töltött el ,
+el	töltött	-	-
+el	töltött	-	-
+el	töltött	-	-
+el	töltött	-	-
+
+%a Middlesbrough elleni mérkőzésen látványos fejessel fordította meg a mérkőzés állását ,
+meg	fordította	-	-
+meg	fordította	-	-
+meg	fordította	-	-
+meg	fordította	-	-
+
+%amit nem tud kézben tartani .
+-	tud	-	tartani
+-	tud	-	tartani
+-	tud	-	tartani
+-	tud	-	tartani
+
+%és mennyit is hoztak létre ?
+létre	hoztak	-	-
+létre	hoztak	-	-
+létre	hoztak	-	-
+létre	hoztak	-	-
+
+%amelyeket a parlament a nyári szünet előtti utolsó ülésén szavazott meg .
+meg	szavazott	-	-
+meg	szavazott	-	-
+meg	szavazott	-	-
+meg	szavazott	-	-
+
+%A nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályainak megszegése esetén 500 ezertől 100 millió forintig terjedő bírságot szabhat ki .
+ki	szabhat	-	-
+ki	szabhat	-	-
+ki	szabhat	-	-
+ki	szabhat	-	-
+
+%rugalmas költségvetési politikánk és javuló piaci helyzetünk alapozta meg
+meg	alapozta	-	-
+meg	alapozta	-	-
+meg	alapozta	-	-
+meg	alapozta	-	-
+
+%IMF-nek szóló visszafizetés összegének kétszeresét vette fel a dollárpiacon államkötvény kibocsájtásával ,
+fel	vette	-	-
+fel	vette	-	-
+fel	vette	-	-
+fel	vette	-	-
+
+%tette hozzá -,
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+hozzá	tette	-	-
+
+%Nagyon jó minősítéssel ment át az illetékes szakhatóságon ez a képzés .
+át	ment	-	-
+át	ment	-	-
+-	ment	-	-
+át	ment	-	-
+
+%hogy nem akarja megmondani az embereknek ,
+-	akarja	meg	mondani
+-	akarja	meg	mondani
+-	akarja	-	megmondani
+-	akarja	-	megmondani
+
+%hogy képesek voltak megbeszélni a dolgot anélkül ,
+-	voltak	meg	beszélni
+-	voltak	meg	beszélni
+-	voltak	-	megbeszélni
+-	voltak	-	megbeszélni
+
+%A bejelentés nem sokkal azt követően hangzott el ,
+el	hangzott	-	-
+el	hangzott	-	-
+el	hangzott	-	-
+el	hangzott	-	-
+
+%Ezt nem tudod feldolgozni ,
+-	tudod	fel	dolgozni
+-	tudod	fel	dolgozni
+-	tudod	-	feldolgozni
+-	tudod	-	feldolgozni
+
+%A jelöltek sorrendjét a párt határozza meg .
+meg	határozza	-	-
+meg	határozza	-	-
+meg	határozza	-	-
+meg	határozza	-	-
+
+%Ez azonban éppen a taxisokat lepte meg a legkevésbé ,
+meg	lepte	-	-
+meg	lepte	-	-
+meg	lepte	-	-
+meg	lepte	-	-
+
+%hogy legalább a halált illető érzéseim nem csaltak meg .
+meg	csaltak	-	-
+meg	csaltak	-	-
+meg	csaltak	-	-
+meg	csaltak	-	-
+
+%elindul a két kicsi ökör nagy dübörgéssel haza az erdőből .
+el	indul	-	-
+el	indul	-	-
+-	elindul	-	-
+-	elindul	-	-
+
+%akik hó végéig nem jönnek ki a pénzükből ,
+ki	jönnek	-	-
+ki	jönnek	-	-
+ki	jönnek	-	-
+ki	jönnek	-	-
+
+%hogy milyen garanciákat fogadnak el .
+el	fogadnak	-	-
+el	fogadnak	-	-
+el	fogadnak	-	-
+el	fogadnak	-	-
+
+%ugyanakkor azt is látni kell ,
+-	kell	-	látni
+-	kell	-	látni
+-	kell	-	látni
+-	kell	-	látni
+
+%Tudsz valami újat mondani ez ügyben ,
+-	tudsz	-	mondani
+-	tudsz	-	mondani
+-	tudsz	-	mondani
+-	tudsz	-	mondani
+
+%hivatalos álláspontot fogalmazzon meg .
+meg	fogalmazzon	-	-
+meg	fogalmazzon	-	-
+meg	fogalmazzon	-	-
+meg	fogalmazzon	-	-
+
+%Számtalan ötlettel áll elő ,
+elő	áll	-	-
+elő	áll	-	-
+elő	áll	-	-
+elő	áll	-	-
+
+%Nézze meg videónkat !
+meg	nézze	-	-
+meg	nézze	-	-
+meg	nézze	-	-
+meg	nézze	-	-
+
+%címen jelent meg összeállítás a Szatmári Friss Újság cikkei nyomán ,
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+
+%mind pedig a képzési infrastruktúra fejlesztését célul tűzi ki ,
+ki	tűzi	-	-
+ki	tűzi	-	-
+ki	tűzi	-	-
+ki	tűzi	-	-
+
+%Forralással oldjunk fel 1 ,
+fel	oldjunk	-	-
+fel	oldjunk	-	-
+fel	oldjunk	-	-
+fel	oldjunk	-	-
+
+%hogy Kefir tériszonya ellenére imád repülni ,
+-	imád	-	repülni
+-	imád	-	repülni
+-	imád	-	repülni
+-	imád	-	repülni
+
+%Első találkozás az ellenséggel Több mint egy évtized után az afganisztáni háború végre lezáródni látszik -
+-	látszik	le	záródni
+-	látszik	le	záródni
+-	látszik	-	lezáródni
+-	látszik	-	lezáródni
+
+%A minisztérium ellenőrző testülete rendellenességeket fedezett fel a vasúttársaság egyik közbeszerzési pályázatának lebonyolításában .
+fel	fedezett	-	-
+-	fedezett	-	-
+fel	fedezett	-	-
+fel	fedezett	-	-
+
+%hogy alig tudod beiktatni a randikat sűrű napirendedbe .
+-	tudod	be	iktatni
+-	tudod	be	iktatni
+-	tudod	-	beiktatni
+-	tudod	-	beiktatni
+
+%27. A közelgő közös névnapjához így jöttem még elsők előtt kívánni ...
+-	jöttem	-	kívánni
+-	jöttem	-	kívánni
+-	jöttem	-	kívánni
+-	jöttem	-	kívánni
+
+%A Budapesti Értéktőzsde a pénzügyi világválság miatt nem tudta folytatni a 2006-os és 2007-es nyerő szériát ,
+-	tudta	-	folytatni
+-	tudta	-	folytatni
+-	tudta	-	folytatni
+-	tudta	-	folytatni
+
+%Ehhez képest a rajt nem sikerül túl jól :
+-	sikerül	-	-
+-	sikerül	-	-
+-	sikerül	-	-
+túl	sikerül	-	-
+
+%Mellékesen a hamis tanúzás bűntettét az követi el ,
+el	követi	-	-
+el	követi	-	-
+el	követi	-	-
+el	követi	-	-
+
+%csak a fejét forgatta utána zavarában .
+-	forgatta	-	-
+-	forgatta	-	-
+-	forgatta	-	-
+utána	forgatta	-	-
+
+%akik kényszerből vették ezt a hitelt fel ,
+fel	vették	-	-
+fel	vették	-	-
+-	vették	-	-
+fel	vették	-	-
+
+%Még mindig nem tudom elhinni ,
+-	tudom	el	hinni
+-	tudom	el	hinni
+-	tudom	-	elhinni
+-	tudom	-	elhinni
+
+%hogy a telefon adatlapján vedd fel készlet értesítőre a készüléket ,
+fel	vedd	-	-
+fel	vedd	-	-
+fel	vedd	-	-
+fel	vedd	-	-
+
+%hogy milyen tagzatra szeretnének iratkozni ,
+-	szeretnének	-	iratkozni
+-	szeretnének	-	iratkozni
+-	szeretnének	-	iratkozni
+-	szeretnének	-	iratkozni
+
+%nem fertőződött -e el 22 ,
+el	fertőződött	-	-
+el	fertőződött	-	-
+-	fertőződött	-	-
+el	fertőződött	-	-
+
+%hogy leüljön szeretteivel beszélgetni ,
+le	üljön	-	beszélgetni
+le	üljön	-	beszélgetni
+-	leüljön	-	beszélgetni
+-	leüljön	-	beszélgetni
+
+%1270-et hívjátok fel .
+fel	hívjátok	-	-
+fel	hívjátok	-	-
+fel	hívjátok	-	-
+fel	hívjátok	-	-
+
+%tehát két nagy amerikai jelzálogbankról lehet beszélni ,
+-	lehet	-	beszélni
+-	lehet	-	beszélni
+-	lehet	-	beszélni
+-	lehet	-	beszélni
+
+%és ezek kritikátlanul szaporodni kezdenek .
+-	kezdenek	-	szaporodni
+-	kezdenek	-	szaporodni
+-	kezdenek	-	szaporodni
+-	kezdenek	-	szaporodni
+
+%egy-két évvel ezelőtt kezdtek tornyosulni ,
+-	kezdtek	-	tornyosulni
+-	kezdtek	-	tornyosulni
+-	kezdtek	-	tornyosulni
+-	kezdtek	-	tornyosulni
+
+%Te talán azt fogod mondani ,
+-	fogod	-	mondani
+-	fogod	-	mondani
+-	fogod	-	mondani
+-	fogod	-	mondani
+
+%a Red Bull pedig dominálni kezdett ismét .
+-	kezdett	-	dominálni
+-	kezdett	-	dominálni
+-	kezdett	-	dominálni
+-	kezdett	-	dominálni
+
+%hasonlóan nagy vitát váltott ki ,
+ki	váltott	-	-
+ki	váltott	-	-
+ki	váltott	-	-
+ki	váltott	-	-
+
+%amelyben Louis íriszeit véltem felfedezni .
+-	véltem	fel	fedezni
+-	véltem	fel	fedezni
+-	véltem	-	felfedezni
+-	véltem	-	felfedezni
+
+%Az MR1 Kossuth Rádió értesülése szerint a gyenge olimpiai szereplés miatt még az országot is el akarta hagyni az Európa-bajnoki ezüstérmes pillangóúszó ,
+-	akarta	el	hagyni
+-	akarta	el	hagyni
+-	akarta	el	hagyni
+-	akarta	el	hagyni
+
+%Többnapos rendezvénysorozattal emlékeztek meg Kárpátalján a magyar kultúra napjáról .
+meg	emlékeztek	-	-
+meg	emlékeztek	-	-
+meg	emlékeztek	-	-
+meg	emlékeztek	-	-
+
+%nézd meg a korábbi vitáinkat (
+meg	nézd	-	-
+meg	nézd	-	-
+meg	nézd	-	-
+meg	nézd	-	-
+
+%Segítenünk kell a tehetségeknek ,
+-	kell	-	segítenünk
+-	kell	-	segítenünk
+-	kell	-	segítenünk
+-	kell	-	segítenünk
+
+%és ritkábban jutottak el a szélesebb tömegekhez .
+el	jutottak	-	-
+el	jutottak	-	-
+-	jutottak	-	-
+el	jutottak	-	-
+
+%A hőmérséklet -4 és +4 °C között fog alakulni csütörtökön .
+-	fog	-	alakulni
+-	fog	-	alakulni
+-	fog	-	alakulni
+-	fog	-	alakulni
+
+%hogy ennek az agóniának a leggyorsabban úgy lehet véget vetni ,
+-	lehet	-	-
+-	lehet	-	vetni
+-	lehet	-	vetni
+-	lehet	-	vetni
+
+%Ilyen melegbe a légkondis kocsmába kell űlni és hideg sört inni !!!!!!!!!!!!!!!!!
+-	kell	-	inni
+-	kell	-	inni
+-	kell	-	űlni
+-	kell	-	inni
+
+%Ha ezt ellenőrizni lehet ,
+-	lehet	-	ellenőrizni
+-	lehet	-	ellenőrizni
+-	lehet	-	ellenőrizni
+-	lehet	-	ellenőrizni
+
+%az már eleve gondatlanul járt el .
+el	járt	-	-
+el	járt	-	-
+-	járt	-	-
+el	járt	-	-
+
+%hogy a hátsó ülésre üljön föl a két férfikísérő ,
+föl	üljön	-	-
+föl	üljön	-	-
+föl	üljön	-	-
+föl	üljön	-	-
+
+%aki kétszer tudott diadalmaskodni .
+-	tudott	-	diadalmaskodni
+-	tudott	-	diadalmaskodni
+-	tudott	-	diadalmaskodni
+-	tudott	-	diadalmaskodni
+
+%kíván -e valaki felszólalni ötperces időkeretben .
+-	kíván	fel	szólalni
+-	kíván	fel	szólalni
+-	kíván	-	felszólalni
+-	kíván	-	felszólalni
+
+%magyarul Az ismeretlen birtok címen jelent meg ,
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+meg	jelent	-	-
+
+%toldotta meg ,
+meg	toldotta	-	-
+meg	toldotta	-	-
+meg	toldotta	-	-
+meg	toldotta	-	-
+
+%Különböző rendezvényeken léptek fel Nógrád megyében és Budapesten .
+fel	léptek	-	-
+fel	léptek	-	-
+fel	léptek	-	-
+fel	léptek	-	-
+
+%A kompenzációs erőfeszítések világából a nácik tették meg az első lépéseket az egyszerre mozduló testek offenzív ,
+meg	tették	-	-
+meg	tették	-	-
+meg	tették	-	-
+meg	tették	-	-
+
+%látomásaidon és szavaidon keresztül jut el hozzád .
+el	jut	-	-
+el	jut	-	-
+el	jut	-	-
+el	jut	-	-
+
+%küldje el partnernőjét is nőgyógyászhoz ,
+el	küldje	-	-
+el	küldje	-	-
+el	küldje	-	-
+el	küldje	-	-
+
+%hogy vajon mennyi pénz jön össze .
+össze	jön	-	-
+össze	jön	-	-
+össze	jön	-	-
+össze	jön	-	-
+
+%az alkotmányt is módosítani kellene ,
+-	kellene	-	módosítani
+-	kellene	-	módosítani
+-	kellene	-	módosítani
+-	kellene	-	módosítani
+
+%Máskor el tudott határolódni az áldozattól ,
+-	tudott	el	határolódni
+-	tudott	el	határolódni
+-	tudott	el	határolódni
+-	tudott	el	határolódni
+
+%Talán azért kértek fel minket erre ,
+fel	kértek	-	-
+fel	kértek	-	-
+fel	kértek	-	-
+fel	kértek	-	-
+
+%hallgassa meg türelmesen a másik felet .
+meg	hallgassa	-	-
+meg	hallgassa	-	-
+meg	hallgassa	-	-
+meg	hallgassa	-	-
+
+%s nem zárta ki e területen akvizíciók lehetőségét sem .
+ki	zárta	-	-
+ki	zárta	-	-
+ki	zárta	-	-
+ki	zárta	-	-
+
+%amit a társult formában ellátott központi ügyeleteknél kettes szorzóval szorzunk fel ,
+fel	szorzunk	-	-
+fel	szorzunk	-	-
+fel	szorzunk	-	-
+fel	szorzunk	-	-
+
+%hogyan lehet tökéletesen alkalmatlannak bizonyulni valamire ,
+-	lehet	-	bizonyulni
+-	lehet	-	bizonyulni
+-	lehet	-	bizonyulni
+-	lehet	-	bizonyulni
+
+%Sejtésem szerint azért nem állítják meg a Városmajornál ,
+meg	állítják	-	-
+meg	állítják	-	-
+meg	állítják	-	-
+meg	állítják	-	-
+
+%Al-Qalanisi feljegyzései szerint a fő rengést 10-én egy kevésbé erős előrengés előzte meg ,
+meg	előzte	-	-
+meg	előzte	-	-
+meg	előzte	-	-
+meg	előzte	-	-
+
+%Ezzel a géppel jelentősen meg tudjuk gyorsítani a fröccsöntő üzemnek a termésének az ellenőrzését ,
+-	tudjuk	meg	gyorsítani
+-	tudjuk	meg	gyorsítani
+-	tudjuk	meg	gyorsítani
+-	tudjuk	meg	gyorsítani
+
+%hanem nőt ábrázoló piktogrammokat is el kell helyezni .
+-	kell	el	helyezni
+-	kell	el	helyezni
+-	kell	el	helyezni
+-	kell	el	helyezni
+
+%jelentette be az üzbég legfelsőbb bíróság .
+be	jelentette	-	-
+be	jelentette	-	-
+be	jelentette	-	-
+be	jelentette	-	-
+
+%derül ki a Szonda Ipsos legutóbbi felméréséből ,
+ki	derül	-	-
+ki	derül	-	-
+ki	derül	-	-
+ki	derül	-	-
+
+%ez jelenítené meg a magyarság érdekeit a különféle nemzetközi -
+meg	jelenítené	-	-
+meg	jelenítené	-	-
+meg	jelenítené	-	-
+meg	jelenítené	-	-
+
+%melyet az egyik rab felesége visz el ,
+el	visz	-	-
+el	visz	-	-
+el	visz	-	-
+el	visz	-	-
+
+%de a kialakult helyzetre tekintettel talán az államtitkár úrnak is önmérsékletet kellene tanúsítania .
+-	kellene	-	tanúsítania
+-	kellene	-	tanúsítania
+-	kellene	-	tanúsítania
+-	kellene	-	tanúsítania
+
+%ebben el kell érni .
+-	kell	el	érni
+-	kell	el	érni
+-	kell	el	érni
+-	kell	el	érni
+
+%de az élmény csak ideig-óráig villanyozta fel .
+fel	villanyozta	-	-
+fel	villanyozta	-	-
+fel	villanyozta	-	-
+fel	villanyozta	-	-
+
+%mert olyasmihez készül kezdeni ,
+-	készül	-	kezdeni
+-	készül	-	kezdeni
+-	készül	-	kezdeni
+-	készül	-	kezdeni
+
+%Ezért a felsőoktatási intézményeknek csak tartós időtartamra tiltaná meg ,
+meg	tiltaná	-	-
+meg	tiltaná	-	-
+meg	tiltaná	-	-
+meg	tiltaná	-	-
+
+%de egyik sem fejezi ki a szeretet különböző formáit .
+ki	fejezi	-	-
+ki	fejezi	-	-
+ki	fejezi	-	-
+ki	fejezi	-	-
+
+%hogy a Los Angeles-i játékokig a meghívót a rendező ország küldte el .
+el	küldte	-	-
+el	küldte	-	-
+el	küldte	-	-
+el	küldte	-	-
+
+%akinek sikerült elfogadtatnia egy olyan szociális reformtörvényt ,
+-	sikerült	el	fogadtatnia
+-	sikerült	el	fogadtatnia
+-	sikerült	-	elfogadtatnia
+-	sikerült	-	elfogadtatnia
+
+%El nem tudod képzelni milyen
+-	tudod	el	képzelni
+-	tudod	el	képzelni
+-	tudod	el	képzelni
+-	tudod	el	képzelni
+
